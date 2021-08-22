@@ -1,0 +1,29 @@
+{
+  "name": "jmsfbs.com",
+  "version": "0.0.0",
+  "description": "New website",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hashql": "^0.1.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.15.0",
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAForbes/jmsfbs.com.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JAForbes/jmsfbs.com/issues"
+  },
+  "homepage": "https://github.com/JAForbes/jmsfbs.com#readme"
+}
