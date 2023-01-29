@@ -1,0 +1,80 @@
+html {
+  display: grid;
+  min-height: 100vh;
+}
+body {
+  display: grid;
+  background-color: black;
+  color: white;
+  background: linear-gradient(#707070, #5a99c1), url(/src/assets/desert-bg.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: none;
+  background-blend-mode: multiply;
+}
+
+body > div {
+  display: grid;
+  justify-content: center;
+}
+
+.app {
+  display: grid;
+  padding: 1em;
+  gap: 1em;
+  align-items: center;
+
+  max-width: 30em;
+}
+
+.links {
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: space-around;
+}
+
+.logoLink {
+  background-color: white;
+  border-radius: 0.25em;
+  max-width: 5em;
+  min-height: 5em;
+  max-height: 5em;
+  overflow: hidden;
+}
+
+.header {
+  display: grid;
+  justify-content: center;
+}
+
+.header h1 {
+  font-size: 4em;
+  letter-spacing: 10px;
+  /* background-color: coral; */
+  color: white;
+  margin: 0em;
+}
+
+.logoLink img {
+  min-height: 100%;
+  max-height: 100%;
+}
+
+.tracks {
+  display: grid;
+  justify-content: center;
+  gap: 1em;
+}
+
+.footer {
+  color: #595e68;
+  align-self: end;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  font-size: 0.7em;
+}
+
+.footer a:visited, .footer a {
+  color: currentColor;
+}
