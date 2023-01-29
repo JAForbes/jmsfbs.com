@@ -1,0 +1,18 @@
+services:
+  vite:
+    image: node:19-alpine3.16
+    working_dir: $PWD
+    user: node
+    init: true
+    command: sh -c 'npm install && npx vite --host'
+    ports: 
+      - 3000:3000
+    volumes:
+      - .:/$PWD
+
+  cohost-feed:
+    image: alpine:3.17.0
+    command: watch -n 60 wget https://cohost.org/jmsfbs/rss/public.json -O cohost.json
+    working_dir: $PWD/public/feed
+    volumes:
+      - .:/$PWD
