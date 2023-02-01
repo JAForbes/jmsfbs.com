@@ -1,5 +1,7 @@
 import { createSignal, createResource, Show, For } from "solid-js";
+import { isServer } from "solid-js/web";
 import style from './posts.module.css'
+import fs from 'fs'
 
 const feedURL = '/feed/cohost.json'
 
@@ -21,22 +23,33 @@ const example = {
       "songwriting"
     ]
 }
-type CohostPost = typeof example;
+// type CohostPost = typeof example;
 
 async function fetchFeed(){
-    const res = await fetch(feedURL).then( x => x.ok ? x.json() : Promise.reject([x.statusText]) )
-    const { items } = res as ({ items: CohostPost[] })
 
+    console.log('fetch feed', isServer)
+    try {
+
+        const res = 
+            isServer
+            ? JSON.parse(fs.readFileSync('./public/'+feedURL, 'utf8'))
+            : await fetch(feedURL).then( x => x.ok ? x.json() : Promise.reject([x.statusText]) )
     
-    return items
-        .filter( 
-            x => (
-                x.tags.includes('music') 
-                || x.tags.includes('home recording')
+        const { items } = res // as ({ items: CohostPost[] })
+    
+        return items
+            .filter( 
+                x => (
+                    x.tags.includes('music') 
+                    || x.tags.includes('home recording')
+                )
+                && x.author.name === '@jmsfbs'
             )
-            && x.author.name === '@jmsfbs'
-        )
-        .slice(0,10)
+            .slice(0,10)
+    } catch (e) {
+        console.error(e)
+        return []
+    }
 }
 
 export default () => {
@@ -49,7 +62,7 @@ export default () => {
                 <ul class={style.postList}>
                     <For each={feed()}>
                         { x => 
-                        <li class={style.post}>    
+                        <li class={style.post}>
                             <h4>{x.title}</h4>
                             <div innerHTML={x.content_html}></div>
                             <p style="color:pink;">Posted {

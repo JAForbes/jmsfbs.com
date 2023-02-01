@@ -1,13 +1,11 @@
-import type { Component } from 'solid-js';
+// import type { Component } from 'solid-js';
 
-import unearthed from './assets/unearthed.svg';
-import bandcamp from './assets/bandcamp.svg';
-import cohost from './assets/cohost.png';
+import { lazy, Suspense } from 'solid-js';
 import styles from './App.module.css';
-import Posts from './components/posts'
+const Posts = lazy( () => import('./components/posts') )
 
 
-const App: Component = () => {
+const App = () => {
   return (
     <div class={styles.app}>
 
@@ -17,13 +15,13 @@ const App: Component = () => {
         </header>
         <div class={styles.links}>
           <a class={styles.logoLink} target="_blank" rel="noopener" href="https://www.abc.net.au/triplejunearthed/artist/jmsfbs/">
-            <img src={unearthed} alt="logo" />
+            <img src={'/assets/unearthed.svg'} alt="logo" />
           </a>
           <a class={styles.logoLink} target="_blank" rel="noopener" href="https://jmsfbs.bandcamp.com">
-            <img src={bandcamp} alt="logo" />
+            <img src={'/assets/bandcamp.svg'} alt="logo" />
           </a>
           <a class={styles.logoLink} target="_blank" rel="noopener" href="https://cohost.org/jmsfbs">
-            <img src={cohost} alt="logo" />
+            <img src={'/assets/cohost.png'} alt="logo" />
           </a>
         </div>
         <div class={styles.tracks}>
@@ -38,7 +36,9 @@ const App: Component = () => {
         </div>
         
       </div>
-      <Posts />
+      <Suspense>
+        <Posts />
+      </Suspense>
       <footer class={styles.footer}>
         <p>Background art by <a href="https://unsplash.com/photos/axCBZHXGQKo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink">Jeremy Bishop</a></p>
         <p>Copyright © {new Date().getFullYear()} James Forbes</p>

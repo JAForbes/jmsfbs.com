@@ -6,7 +6,7 @@ html {
 body {
   display: grid;
   color: white;
-  background: linear-gradient(#707070, #5a99c1), url(/src/assets/desert-bg.jpg);
+  background: linear-gradient(#707070, #5a99c1), url(/assets/desert-bg.jpg);
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: none;
