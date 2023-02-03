@@ -6,10 +6,10 @@
     <ul class="postList">
         {#each posts as x}
             <li class="post">
-                <h4>{x.title}</h4>
+                <a style="text-decoration:none;" href={x.url}><h4>{x.title}</h4></a>
                 <div>{@html x.content_html}</div>
                 <p style="color:pink;">Posted {
-                    new Date('2019-07-31')
+                    new Date(x.date_modified)
                     .toLocaleDateString('en-au', {
                         year: 'numeric',
                         month: 'long',
