@@ -4,6 +4,10 @@
 	
 	export let data : PageData
 </script>
+<svelte:head>
+  <title>jmsfbs</title>
+  <meta name="description" content="jmsfbs is a musician and songwriter from the Blue Mountains, Australia"/>
+</svelte:head>
 <div class="app">
 	<div class="landing">
 		<header class="header">
@@ -48,7 +52,7 @@
 :global(body) {
   display: grid;
   color: white;
-  background: linear-gradient(#707070, #5a99c1), url(/desert-bg.jpg);
+  background: linear-gradient(#707070, #5a99c1), url(/static/desert-bg.jpg);
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: none;
@@ -172,7 +176,7 @@
 :global(body) {
   display: grid;
   color: white;
-  background: linear-gradient(#707070, #5a99c1), url(/desert-bg.jpg);
+  background: linear-gradient(#707070, #5a99c1), url(/static/desert-bg.jpg);
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: none;
