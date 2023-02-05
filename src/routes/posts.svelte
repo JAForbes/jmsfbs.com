@@ -37,11 +37,13 @@
     list-style: none;
     display: grid;
     gap: 5em;
+    padding-left: 0px;
 }
 
 
 .post :global(div), .post :global(figure) {
     display: grid;
+    margin: 0em;
 }
 
 .post :global(img) {
@@ -67,6 +69,20 @@
     max-width: 40em;
 }
 
+.post :global(a) {
+    word-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
+}
+
+.post :global(pre) {
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
 li.post {
     padding: 1em;
 }
@@ -81,12 +97,6 @@ li.post {
     top: -1em;
     position: relative;
     box-sizing: border-box;
-}
-
-@media (max-width: 800px) {
-    .posts {
-        display: none;
-    }
 }
 
 .tags {
