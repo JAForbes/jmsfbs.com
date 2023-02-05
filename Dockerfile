@@ -10,7 +10,6 @@ ADD https://cohost.org/jmsfbs/rss/public.json ./static/feed/cohost.json
 
 ADD static static
 ADD src src
-ADD .svelte-kit .svelte-kit
 COPY svelte.config.js tsconfig.json vite.config.ts ./
 
 RUN npm run build
