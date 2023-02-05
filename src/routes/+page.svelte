@@ -15,13 +15,13 @@
 		</header>
 	  <div class="links">
 			<a class="logoLink" target="_blank" rel="noreferrer noopener" href="https://www.abc.net.au/triplejunearthed/artist/jmsfbs/">
-				<img src={'/unearthed.svg'} alt="logo" />
+				<img width="80px" height="80px" src={'/unearthed.svg'} alt="logo" />
 			</a>
 			<a class="logoLink" target="_blank" rel="noreferrer noopener" href="https://jmsfbs.bandcamp.com">
-				<img src={'/bandcamp.svg'} alt="logo" />
+				<img width="80px" height="80px" src={'/bandcamp.svg'} alt="logo" />
 			</a>
 			<a class="logoLink" target="_blank" rel="noreferrer noopener" href="https://cohost.org/jmsfbs">
-				<img src={'/cohost.png'} alt="logo" />
+				<img width="80px" height="80px" src={'/cohost.png'} alt="logo" />
 			</a>
 		</div>
 		<div class="tracks">
