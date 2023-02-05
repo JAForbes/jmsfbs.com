@@ -15,14 +15,17 @@
 		</header>
 	  <div class="links">
 			<a class="logoLink" target="_blank" rel="noreferrer noopener" href="https://www.abc.net.au/triplejunearthed/artist/jmsfbs/">
-				<img width="80px" height="80px" src={'/unearthed.svg'} alt="logo" />
+				<img src={'/unearthed.svg'} alt="logo" />
 			</a>
 			<a class="logoLink" target="_blank" rel="noreferrer noopener" href="https://jmsfbs.bandcamp.com">
-				<img width="80px" height="80px" src={'/bandcamp.svg'} alt="logo" />
+				<img src={'/bandcamp.svg'} alt="logo" />
 			</a>
 			<a class="logoLink" target="_blank" rel="noreferrer noopener" href="https://cohost.org/jmsfbs">
-				<img width="80px" height="80px" src={'/cohost.png'} alt="logo" />
+				<img src={'/cohost.png'} alt="logo" />
 			</a>
+      <a class="logoLink" target="_blank" rel="noreferrer noopener" href="https://soundcloud.com/jmsfbs">
+        <img src={'/soundcloud.png'} alt="logo" />
+      </a>
 		</div>
 		<div class="tracks">
 			<iframe 
@@ -87,15 +90,28 @@
   display: grid;
   grid-auto-flow: column;
   justify-content: space-around;
+  gap: 1em;
+}
+
+@media (max-width: 500px) {
+  .logoLink {
+    width: 60px;
+    height: 60px;
+  }
+}
+
+@media (min-width: 500px) {
+  .logoLink {
+    width: 50px;
+    height: 50px;
+  }
 }
 
 .logoLink {
   background-color: white;
-  border-radius: 0.25em;
-  max-width: 5em;
-  min-height: 5em;
-  max-height: 5em;
+  border-radius: 1.8em;
   overflow: hidden;
+  border: solid 1px white;
 }
 
 .header {
