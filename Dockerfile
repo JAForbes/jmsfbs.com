@@ -6,10 +6,8 @@ COPY package.json .
 
 RUN npm install
 
-ADD https://cohost.org/jmsfbs/rss/public.json ./static/feed/cohost.json
-
-ADD static static
-ADD src src
+COPY static static
+COPY src src
 COPY svelte.config.js tsconfig.json vite.config.ts ./
 
 RUN npm run build
