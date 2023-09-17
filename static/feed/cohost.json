@@ -11,69 +11,54 @@
     },
     "items": [
         {
-            "id": "943274",
-            "content_html": "<p><a href=\"https://www.youtube.com/watch?v=6W3kXEGy_GQ&amp;t=1s\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=6W3kXEGy_GQ&amp;t=1s</a></p>",
-            "url": "https://cohost.org/jmsfbs/post/943274-samorost",
-            "title": "Samorost",
-            "summary": "https://www.youtube.com/watch?v=6W3kXEGy_GQ&t=1s [https://www.youtube.com/watch?v=6W3kXEGy_GQ&t=1s]",
-            "date_modified": "2023-02-01T11:05:41.328Z",
-            "date_published": "2023-02-01T11:05:41.324Z",
-            "author": {
-                "name": "@jmsfbs",
-                "url": "https://cohost.org/jmsfbs"
-            },
-            "tags": [
-                "gamedev",
-                "art",
-                "games",
-                "documentary"
-            ]
-        },
-        {
-            "id": "942742",
-            "content_html": "<p><a href=\"https://open.spotify.com/album/724MiwOVJq5YS9sr70RLif?si=QKtxPtDUTlyM1ZlJifMU-A\" target=\"_self\" rel=\"nofollow\">https://open.spotify.com/album/724MiwOVJq5YS9sr70RLif?si=QKtxPtDUTlyM1ZlJifMU-A</a></p>",
-            "url": "https://cohost.org/jmsfbs/post/942742-listening-to-fruscia",
-            "title": "Listening to Frusciante / Klinghoffer today",
-            "summary": "https://open.spotify.com/album/724MiwOVJq5YS9sr70RLif?si=QKtxPtDUTlyM1ZlJifMU-A [https://open.spotify.com/album/724MiwOVJq5YS9sr70RLif?si=QKtxPtDUTlyM1ZlJifMU-A]",
-            "date_modified": "2023-02-01T07:07:44.010Z",
-            "date_published": "2023-02-01T07:07:44.007Z",
+            "id": "https://cohost.org/jmsfbs/post/2870336-post",
+            "content_html": "<p><a href=\"https://jmsfbs.bandcamp.com/track/golden\" target=\"_self\" rel=\"nofollow\">https://jmsfbs.bandcamp.com/track/golden</a></p>",
+            "url": "https://cohost.org/jmsfbs/post/2870336-new-track-golden",
+            "title": "New Track: Golden",
+            "summary": "https://jmsfbs.bandcamp.com/track/golden [https://jmsfbs.bandcamp.com/track/golden]",
+            "date_modified": "2023-09-17T01:15:42.263Z",
+            "date_published": "2023-09-17T01:15:25.646Z",
             "author": {
                 "name": "@jmsfbs",
                 "url": "https://cohost.org/jmsfbs"
             },
             "tags": [
                 "music",
-                "klinghoffer",
-                "frusciante",
-                "rhcp"
+                "home recording",
+                "acoustic",
+                "folk",
+                "country",
+                "indie",
+                "johnny cash"
             ]
         },
         {
-            "id": "915980",
-            "content_html": "<p>The <a href=\"https://cohost.org/jmsfbs/post/881830-midi-thoughts\" target=\"_self\" rel=\"nofollow\">midi thing</a> worked really well on the last track I think.  So I&#x27;m going to try the same approach on this next track but also experiment a bit with the Haas effect to get a wider stereo image without actually panning at all.  If that sounds fancy, I only just learned about it, because I was a bit dissatisfied with the panning of the guitar solo in <a href=\"https://jmsfbs.bandcamp.com/track/wicked\" target=\"_self\" rel=\"nofollow\">Wicked</a></p>\n<p>The song was originally called Moon Addict, but I think it may now be called Starsign.  I&#x27;m definitely going to play around with the song, lyrics and arrangement as I wrote it close to 15 years ago and otherwise it wouldn&#x27;t be too interesting for me or anyone else.</p>\n<p>So I&#x27;ve plugged in my Arturia Minilab (something that was previously gathering dust but is now potentially my favourite piece of kit) and I&#x27;ve started playing around with church organs.  We&#x27;ll see how it turns out!</p>",
-            "url": "https://cohost.org/jmsfbs/post/915980-starting-the-next-so",
-            "title": "Starting the next song",
-            "summary": "The midi thing [https://cohost.org/jmsfbs/post/881830-midi-thoughts] worked really well on the last track I think. So I'm going to try the same approach on this next track but also experiment a bit with the Haas effect to get a wider stereo image without actually panning at all. If that sounds fancy, I only just learned about it, because I was a bit dissatisfied with the panning of the guitar solo in Wicked [https://jmsfbs.bandcamp.com/track/wicked]\n\nThe song was originally called Moon Addict, but I think it may now be called Starsign. I'm definitely going to play around with the song, lyrics and arrangement as I wrote it close to 15 years ago and otherwise it wouldn't be too interesting for me or anyone else.\n\nSo I've plugged in my Arturia Minilab (something that was previously gathering dust but is now potentially my favourite piece of kit) and I've started playing around with church organs. We'll see how it turns out!",
-            "date_modified": "2023-01-27T06:56:51.650Z",
-            "date_published": "2023-01-27T06:56:51.647Z",
+            "id": "https://cohost.org/jmsfbs/post/2869791-post",
+            "content_html": "<figure><img alt=\"\" title=\"\" src=\"https://staging.cohostcdn.org/attachment/b7e09133-9f92-4cc9-bd76-222db1d614da/image.png\"/></figure><p>Just found out you can update reaper via winget</p>",
+            "url": "https://cohost.org/jmsfbs/post/2869791-nerd-points",
+            "title": "Nerd points",
+            "summary": "Just found out you can update reaper via winget",
+            "image": "https://staging.cohostcdn.org/attachment/b7e09133-9f92-4cc9-bd76-222db1d614da/image.png",
+            "date_modified": "2023-09-17T00:09:07.090Z",
+            "date_published": "2023-09-17T00:09:07.086Z",
             "author": {
                 "name": "@jmsfbs",
                 "url": "https://cohost.org/jmsfbs"
             },
             "tags": [
-                "Midi",
-                "home recording",
-                "songwriting"
+                "winget",
+                "reaper",
+                "Music production"
             ]
         },
         {
-            "id": "915951",
-            "content_html": "<p>Wicked</p>\n<p><a href=\"https://jmsfbs.bandcamp.com/track/wicked\" target=\"_self\" rel=\"nofollow\">https://jmsfbs.bandcamp.com/track/wicked</a></p>\n<p>Never</p>\n<p><a href=\"https://jmsfbs.bandcamp.com/track/never\" target=\"_self\" rel=\"nofollow\">https://jmsfbs.bandcamp.com/track/never</a></p>",
-            "url": "https://cohost.org/jmsfbs/post/915951-new-tracks",
-            "title": "New Tracks",
-            "summary": "Wicked\n\nhttps://jmsfbs.bandcamp.com/track/wicked [https://jmsfbs.bandcamp.com/track/wicked]\n\nNever\n\nhttps://jmsfbs.bandcamp.com/track/never [https://jmsfbs.bandcamp.com/track/never]",
-            "date_modified": "2023-01-27T06:49:07.182Z",
-            "date_published": "2023-01-27T06:48:57.228Z",
+            "id": "https://cohost.org/jmsfbs/post/2458613-post",
+            "content_html": "<p>I wonder when chromecast will develop the technology to include videos in slideshows.</p>",
+            "url": "https://cohost.org/jmsfbs/post/2458613-i-wonder-when-chrome",
+            "title": "Post from @jmsfbs on cohost",
+            "summary": "I wonder when chromecast will develop the technology to include videos in slideshows.",
+            "date_modified": "2023-08-12T06:47:18.462Z",
+            "date_published": "2023-08-12T06:47:18.458Z",
             "author": {
                 "name": "@jmsfbs",
                 "url": "https://cohost.org/jmsfbs"
@@ -81,307 +66,310 @@
             "tags": []
         },
         {
-            "id": "909617",
-            "content_html": "<p><a href=\"https://jmsfbs.bandcamp.com/track/wicked\" target=\"_self\" rel=\"nofollow\">https://jmsfbs.bandcamp.com/track/wicked</a></p>\n<pre><code>flip a coin\nI choose tails\nsave me from that face\nit&#x27;s pressed into steel\nso it all feels real\nI&#x27;m kneeling in waist high grass\n\nam I allowed to grieve the rest\nor is it not the time yet\nis it always the time\nto remember the lives\nof the children you sent to the cliffs\n\nhave a rest\nhave a wicked time\nhave a rest\nfrom your wicked mind\n\ntime is a lie that never happened before\ntime is a memory we invented\nso why would would you care about what&#x27;s never been there\nand whose thoughts can never be mended\n</code></pre>",
-            "url": "https://cohost.org/jmsfbs/post/909617-new-track-wicked",
-            "title": "New Track - Wicked",
-            "summary": "https://jmsfbs.bandcamp.com/track/wicked [https://jmsfbs.bandcamp.com/track/wicked]\n\nflip a coin\nI choose tails\nsave me from that face\nit's pressed into steel\nso it all feels real\nI'm kneeling in waist high grass\n\nam I allowed to grieve the rest\nor is it not the time yet\nis it always the time\nto remember the lives\nof the children you sent to the cliffs\n\nhave a rest\nhave a wicked time\nhave a rest\nfrom your wicked mind\n\ntime is a lie that never happened before\ntime is a memory we invented\nso why would would you care about what's never been there\nand whose thoughts can never be mended\n",
-            "date_modified": "2023-01-27T06:49:02.056Z",
-            "date_published": "2023-01-26T03:09:33.404Z",
+            "id": "https://cohost.org/jmsfbs/post/2254047-post",
+            "content_html": "<p>This is huge for musos sharing demos!</p>",
+            "url": "https://cohost.org/jmsfbs/post/2254047-this-is-huge-for-mus",
+            "title": "Post from @jmsfbs on cohost",
+            "summary": "Share from @staff: https://cohost.org/staff/post/2247947-cohost-patch-notes-v\n\nThis is huge for musos sharing demos!",
+            "date_modified": "2023-07-28T22:43:08.479Z",
+            "date_published": "2023-07-28T22:43:08.477Z",
+            "external_url": "https://cohost.org/staff/post/2247947-cohost-patch-notes-v",
+            "author": {
+                "name": "@jmsfbs",
+                "url": "https://cohost.org/jmsfbs"
+            },
+            "tags": []
+        },
+        {
+            "id": "https://cohost.org/jmsfbs/post/1958396-post",
+            "content_html": "<p>Read Hitch-22 and imbibe whenever <em>Christopher</em> invokes &quot;sardonic&quot;.</p>",
+            "url": "https://cohost.org/jmsfbs/post/1958396-new-drinking-game",
+            "title": "New drinking game",
+            "summary": "Read Hitch-22 and imbibe whenever Christopher invokes \"sardonic\".",
+            "date_modified": "2023-07-09T02:47:00.272Z",
+            "date_published": "2023-07-09T02:45:54.694Z",
+            "author": {
+                "name": "@jmsfbs",
+                "url": "https://cohost.org/jmsfbs"
+            },
+            "tags": [
+                "books",
+                "drinking",
+                "hitch"
+            ]
+        },
+        {
+            "id": "https://cohost.org/jmsfbs/post/1712599-post",
+            "content_html": "<p><a href=\"https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/\" target=\"_self\" rel=\"nofollow\">https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/</a></p>",
+            "url": "https://cohost.org/jmsfbs/post/1712599-one-of-the-better-es",
+            "title": "One of the better essays on ChatGPT",
+            "summary": "https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/ [https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/]",
+            "date_modified": "2023-06-19T01:45:15.781Z",
+            "date_published": "2023-06-19T01:45:15.770Z",
+            "author": {
+                "name": "@jmsfbs",
+                "url": "https://cohost.org/jmsfbs"
+            },
+            "tags": [
+                "chatgpt",
+                "ian bogost",
+                "ai",
+                "criticism"
+            ]
+        },
+        {
+            "id": "https://cohost.org/jmsfbs/post/1619795-post",
+            "content_html": "<p><a href=\"https://www.youtube.com/watch?v=qk6p5JE5TsY\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=qk6p5JE5TsY</a></p>\n<p>I&#x27;ve been practicing Weird Fishes (Radiohead) on drums, and I&#x27;m playing the high hat the hard way, it was starting to hurt my wrist so researching how to do it properly.</p>\n<p>I don&#x27;t think I can practice this on my CompactKit because its a flat surface, so might need to just hit a fence post or something.</p>",
+            "url": "https://cohost.org/jmsfbs/post/1619795-playing-high-hats-fa",
+            "title": "Playing high hats fast with one hand",
+            "summary": "https://www.youtube.com/watch?v=qk6p5JE5TsY [https://www.youtube.com/watch?v=qk6p5JE5TsY]\n\nI've been practicing Weird Fishes (Radiohead) on drums, and I'm playing the high hat the hard way, it was starting to hurt my wrist so researching how to do it properly.\n\nI don't think I can practice this on my CompactKit because its a flat surface, so might need to just hit a fence post or something.",
+            "date_modified": "2023-06-04T23:38:33.623Z",
+            "date_published": "2023-06-04T23:38:33.621Z",
+            "author": {
+                "name": "@jmsfbs",
+                "url": "https://cohost.org/jmsfbs"
+            },
+            "tags": [
+                "drums",
+                "learning"
+            ]
+        },
+        {
+            "id": "https://cohost.org/jmsfbs/post/1572613-post",
+            "content_html": "<p>He died the way he lived.  Buried under rubble.</p>",
+            "url": "https://cohost.org/jmsfbs/post/1572613-he-died-the-way-he-l",
+            "title": "Post from @jmsfbs on cohost",
+            "summary": "He died the way he lived. Buried under rubble.",
+            "date_modified": "2023-05-28T12:42:06.289Z",
+            "date_published": "2023-05-28T12:42:06.287Z",
+            "author": {
+                "name": "@jmsfbs",
+                "url": "https://cohost.org/jmsfbs"
+            },
+            "tags": []
+        },
+        {
+            "id": "https://cohost.org/jmsfbs/post/1480427-post",
+            "content_html": "<p><a href=\"https://www.youtube.com/watch?v=WKLUW5wqXYE\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=WKLUW5wqXYE</a></p>\n<p>Thought this was amazing, I can imagine this would lead to some subtle ducking (e.g. just the mid&#x27;s or the high&#x27;s depending on the vocalist).  Also I guess in theory this would make the compression less obvious for guitar parts that span the entire neck abruptly.</p>",
+            "url": "https://cohost.org/jmsfbs/post/1480427-splitting-frequencie",
+            "title": "Splitting Frequencies into Separate Buses (Guitars)",
+            "summary": "https://www.youtube.com/watch?v=WKLUW5wqXYE [https://www.youtube.com/watch?v=WKLUW5wqXYE]\n\nThought this was amazing, I can imagine this would lead to some subtle ducking (e.g. just the mid's or the high's depending on the vocalist). Also I guess in theory this would make the compression less obvious for guitar parts that span the entire neck abruptly.",
+            "date_modified": "2023-05-11T04:37:03.587Z",
+            "date_published": "2023-05-11T04:37:03.585Z",
+            "author": {
+                "name": "@jmsfbs",
+                "url": "https://cohost.org/jmsfbs"
+            },
+            "tags": [
+                "reaper",
+                "Music production"
+            ]
+        },
+        {
+            "id": "https://cohost.org/jmsfbs/post/1460591-post",
+            "content_html": "<p>Just finished it.  It was great.  But especially great to see some long running bits in Arrested Development actually started here.  Great writing.</p>",
+            "url": "https://cohost.org/jmsfbs/post/1460591-larry-sanders-show",
+            "title": "Larry Sanders Show",
+            "summary": "Just finished it. It was great. But especially great to see some long running bits in Arrested Development actually started here. Great writing.",
+            "date_modified": "2023-05-07T11:43:57.354Z",
+            "date_published": "2023-05-07T11:43:57.352Z",
+            "author": {
+                "name": "@jmsfbs",
+                "url": "https://cohost.org/jmsfbs"
+            },
+            "tags": [
+                "tv",
+                "larry sanders",
+                "Arrested development"
+            ]
+        },
+        {
+            "id": "https://cohost.org/jmsfbs/post/1456278-post",
+            "content_html": "<p><a href=\"https://www.youtube.com/watch?v=9Ba2boGeznQ\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=9Ba2boGeznQ</a></p>",
+            "url": "https://cohost.org/jmsfbs/post/1456278-bass-sound-design-w",
+            "title": "Bass Sound Design w/ Vital",
+            "summary": "https://www.youtube.com/watch?v=9Ba2boGeznQ [https://www.youtube.com/watch?v=9Ba2boGeznQ]",
+            "date_modified": "2023-05-06T14:17:09.363Z",
+            "date_published": "2023-05-06T14:17:09.361Z",
+            "author": {
+                "name": "@jmsfbs",
+                "url": "https://cohost.org/jmsfbs"
+            },
+            "tags": [
+                "vital",
+                "bass",
+                "sound design",
+                "audio engineering"
+            ]
+        },
+        {
+            "id": "https://cohost.org/jmsfbs/post/1456123-post",
+            "content_html": "<p>Had my first good session with Reaper today after much tinkering and researching.  For the first time I could sort of visualize eventually getting good at it, so I figured they deserved $60 now.</p>",
+            "url": "https://cohost.org/jmsfbs/post/1456123-i-paid-for-a-daw",
+            "title": "I paid for a DAW!",
+            "summary": "Had my first good session with Reaper today after much tinkering and researching. For the first time I could sort of visualize eventually getting good at it, so I figured they deserved $60 now.",
+            "date_modified": "2023-05-06T13:03:23.611Z",
+            "date_published": "2023-05-06T13:03:23.610Z",
+            "author": {
+                "name": "@jmsfbs",
+                "url": "https://cohost.org/jmsfbs"
+            },
+            "tags": [
+                "DAW",
+                "reaper",
+                "music",
+                "audio engineering"
+            ]
+        },
+        {
+            "id": "https://cohost.org/jmsfbs/post/1433411-post",
+            "content_html": "<p><a href=\"https://www.youtube.com/watch?v=ujfjDE3pi-s\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=ujfjDE3pi-s</a></p>\n<p>I wonder if Nick was doing a little wink here at the similarity between Succession and Andor&#x27;s music, they are like &quot;cousins&quot;.</p>\n<p>I know &quot;cousins&quot; refers to Mon Mothma and her cousin, but this song is so evocative of Succession I thought maybe there&#x27;s a double meaning.</p>",
+            "url": "https://cohost.org/jmsfbs/post/1433411-cousins",
+            "title": "Cousins",
+            "summary": "https://www.youtube.com/watch?v=ujfjDE3pi-s [https://www.youtube.com/watch?v=ujfjDE3pi-s]\n\nI wonder if Nick was doing a little wink here at the similarity between Succession and Andor's music, they are like \"cousins\".\n\nI know \"cousins\" refers to Mon Mothma and her cousin, but this song is so evocative of Succession I thought maybe there's a double meaning.",
+            "date_modified": "2023-05-02T14:08:35.459Z",
+            "date_published": "2023-05-02T14:06:35.142Z",
             "author": {
                 "name": "@jmsfbs",
                 "url": "https://cohost.org/jmsfbs"
             },
             "tags": [
                 "music",
-                "songwriting",
-                "home recording"
+                "STAR WARS",
+                "succession",
+                "tv"
             ]
         },
         {
-            "id": "904948",
-            "content_html": "<p>I&#x27;ve pretty much wrapped up this song, I have an idea for a music video I want to go with it so I&#x27;m researching different tools.</p>\n<p>Anyway, just thought this video was great, its just a guy complaining about blender not doing very obvious things by default.  I don&#x27;t know why I enjoy this so much but I do.</p>\n<p><a href=\"https://www.youtube.com/watch?v=Qb5pge01H4Q\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=Qb5pge01H4Q</a></p>",
-            "url": "https://cohost.org/jmsfbs/post/904948-video-editing",
-            "title": "Video Editing?",
-            "summary": "I've pretty much wrapped up this song, I have an idea for a music video I want to go with it so I'm researching different tools.\n\nAnyway, just thought this video was great, its just a guy complaining about blender not doing very obvious things by default. I don't know why I enjoy this so much but I do.\n\nhttps://www.youtube.com/watch?v=Qb5pge01H4Q [https://www.youtube.com/watch?v=Qb5pge01H4Q]",
-            "date_modified": "2023-01-25T08:01:21.231Z",
-            "date_published": "2023-01-25T08:01:21.229Z",
+            "id": "https://cohost.org/jmsfbs/post/1379548-post",
+            "content_html": "<p>Just a passing drum thought.  I was just practicing and found I couldn&#x27;t change from a snare fill to the ride in time.  Eventually I figured out I had to hit twice with one hand instead of alternating hands on the snare.  By hitting twice I effectively swapped hands for the final hit which freed up the right hand to reach the snare in time.</p>\n<p>I think there&#x27;s probably a general principle here that I need to internalize: hit twice with the hand you need to free up.  Hopefully I can try it out and internalize that.</p>",
+            "url": "https://cohost.org/jmsfbs/post/1379548-freeing-up-your-hand",
+            "title": "Freeing up your hands for crash/ride hits.",
+            "summary": "Just a passing drum thought. I was just practicing and found I couldn't change from a snare fill to the ride in time. Eventually I figured out I had to hit twice with one hand instead of alternating hands on the snare. By hitting twice I effectively swapped hands for the final hit which freed up the right hand to reach the snare in time.\n\nI think there's probably a general principle here that I need to internalize: hit twice with the hand you need to free up. Hopefully I can try it out and internalize that.",
+            "date_modified": "2023-04-23T03:07:15.154Z",
+            "date_published": "2023-04-23T03:07:15.152Z",
             "author": {
                 "name": "@jmsfbs",
                 "url": "https://cohost.org/jmsfbs"
             },
             "tags": [
-                "music",
-                "video editing",
-                "blender"
+                "drums"
             ]
         },
         {
-            "id": "892822",
-            "content_html": "<p>I just realised you can automate the pedal board in garage band.  That is so cool!</p>",
-            "url": "https://cohost.org/jmsfbs/post/892822-automate-the-pedal-b",
-            "title": "Automate the pedal board!?",
-            "summary": "I just realised you can automate the pedal board in garage band. That is so cool!",
-            "date_modified": "2023-01-23T06:36:53.479Z",
-            "date_published": "2023-01-23T06:36:53.477Z",
+            "id": "https://cohost.org/jmsfbs/post/1342883-post",
+            "content_html": "<p><a href=\"https://www.youtube.com/watch?v=2T_EVTkDLt4\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=2T_EVTkDLt4</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=GlCJ1UYjuDo\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=GlCJ1UYjuDo</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=Wyx8cz7oxLI\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=Wyx8cz7oxLI</a></p>",
+            "url": "https://cohost.org/jmsfbs/post/1342883-midi-research-round",
+            "title": "Midi Research Round Up",
+            "summary": "https://www.youtube.com/watch?v=2T_EVTkDLt4 [https://www.youtube.com/watch?v=2T_EVTkDLt4]\n\nhttps://www.youtube.com/watch?v=GlCJ1UYjuDo [https://www.youtube.com/watch?v=GlCJ1UYjuDo]\n\nhttps://www.youtube.com/watch?v=Wyx8cz7oxLI [https://www.youtube.com/watch?v=Wyx8cz7oxLI]",
+            "date_modified": "2023-04-16T06:19:57.086Z",
+            "date_published": "2023-04-16T04:07:42.928Z",
             "author": {
                 "name": "@jmsfbs",
                 "url": "https://cohost.org/jmsfbs"
             },
             "tags": [
-                "garageband",
-                "home studio",
-                "home recording"
-            ]
-        },
-        {
-            "id": "881830",
-            "content_html": "<figure><img alt=\"\" title=\"\" src=\"https://staging.cohostcdn.org/attachment/fc7337ec-1135-484f-9ede-cf9afc075300/PXL_20230121_083234984_2.jpg\"/></figure><p>I&#x27;m a guitar guy, I can barely play the keyboard and I can only read sight music at a snails pace.</p>\n<p>Usually when recording I do a guide track with guitar and vocals at the same time.  Then I add layers on top and eventually replace the guide with a better take.  That works fine if you have the exact arrangement in mind at the start of the process.  But what if you are reworking a song, or exploring a composition as you record it.  What if, when you record it you find out what worked live doesn&#x27;t work on &quot;tape&quot;.</p>\n<p>I&#x27;ve been struggling with such a song the past few weeks.  I&#x27;ve reworked the lyrics, I&#x27;ve tried different tempos.  And now after re-recording everything with the new tempo I&#x27;ve decided there needs to be some kind of discordant bridge to make the resolution in the chorus and verse feel more earned.</p>\n<p>So I&#x27;m thinking, what if I play every part in midi first and then I can re-arrange and play with tempos without expending all the effort on doing vocal/guitar takes.  And hopefully, my inability to play keyboard leads to some mistakes which spark some ideas (especially in this case as I want a semi-discordant breakdown).</p>\n<p>We&#x27;ll see.</p>\n<p>Another thought re: midi.  I really love Empress Of&#x27;s album <a href=\"https://terriblerecords.bandcamp.com/album/me-2\" target=\"_self\" rel=\"nofollow\">Me</a>.  And I remember reading an interview, she was saying she couldn&#x27;t write that album with others involved, it was so much easier to program beats and layers on her computer herself as she could take her time and explore ideas slowly and carefully.  I may be misremembering the exact quotes.  But I really relate to that.  Maybe if I get better with my midi controller, I can create soundscapes that would have been impossible for me otherwise.</p>\n<p>It&#x27;s kind of hard for a guitar to sound as haunting or sad as a piano.  And there&#x27;s a reason every reality TV show starts playing a piano part when someone is telling a sad story about their life.  Different instruments are better at evoking different emotions.</p>\n<p>At the same time midi instruments can sound really bad when simulating plucked instruments and guitar has a beautiful raw organic quality.</p>\n<p>So some balance across the possibility space would be great.</p>",
-            "url": "https://cohost.org/jmsfbs/post/881830-midi-thoughts",
-            "title": "Midi Thoughts",
-            "summary": "I'm a guitar guy, I can barely play the keyboard and I can only read sight music at a snails pace.\n\nUsually when recording I do a guide track with guitar and vocals at the same time. Then I add layers on top and eventually replace the guide with a better take. That works fine if you have the exact arrangement in mind at the start of the process. But what if you are reworking a song, or exploring a composition as you record it. What if, when you record it you find out what worked live doesn't work on \"tape\".\n\nI've been struggling with such a song the past few weeks. I've reworked the lyrics, I've tried different tempos. And now after re-recording everything with the new tempo I've decided there needs to be some kind of discordant bridge to make the resolution in the chorus and verse feel more earned.\n\nSo I'm thinking, what if I play every part in midi first and then I can re-arrange and play with tempos without expending all the effort on doing vocal/guitar takes. And hopefully, my inability to play keyboard leads to some mistakes which spark some ideas (especially in this case as I want a semi-discordant breakdown).\n\nWe'll see.\n\nAnother thought re: midi. I really love Empress Of's album Me [https://terriblerecords.bandcamp.com/album/me-2]. And I remember reading an interview, she was saying she couldn't write that album with others involved, it was so much easier to program beats and layers on her computer herself as she could take her time and explore ideas slowly and carefully. I may be misremembering the exact quotes. But I really relate to that. Maybe if I get better with my midi controller, I can create soundscapes that would have been impossible for me otherwise.\n\nIt's kind of hard for a guitar to sound as haunting or sad as a piano. And there's a reason every reality TV show starts playing a piano part when someone is telling a sad story about their life. Different instruments are better at evoking different emotions.\n\nAt the same time midi instruments can sound really bad when simulating plucked instruments and guitar has a beautiful raw organic quality.\n\nSo some balance across the possibility space would be great.",
-            "image": "https://staging.cohostcdn.org/attachment/fc7337ec-1135-484f-9ede-cf9afc075300/PXL_20230121_083234984_2.jpg",
-            "date_modified": "2023-01-21T08:42:47.894Z",
-            "date_published": "2023-01-21T03:27:16.883Z",
-            "author": {
-                "name": "@jmsfbs",
-                "url": "https://cohost.org/jmsfbs"
-            },
-            "tags": [
-                "process",
-                "songwriting",
+                "Music production",
                 "home recording",
+                "arturia",
+                "Moog",
+                "reaper",
+                "synthesis",
                 "Midi"
             ]
         },
         {
-            "id": "859426",
-            "content_html": "<p>I just poured an Ardbeg and there wasn&#x27;t enough left in the bottle to make a full shot.  I checked if any liquor stores were open - to no avail.</p>\n<p>So, I topped it up with half of a shot of Laphroaig.</p>\n<p>Will Scotland be ok?</p>",
-            "url": "https://cohost.org/jmsfbs/post/859426-scotch-crime",
-            "title": "Scotch Crime?",
-            "summary": "I just poured an Ardbeg and there wasn't enough left in the bottle to make a full shot. I checked if any liquor stores were open - to no avail.\n\nSo, I topped it up with half of a shot of Laphroaig.\n\nWill Scotland be ok?",
-            "date_modified": "2023-01-17T10:13:18.504Z",
-            "date_published": "2023-01-17T10:13:18.500Z",
-            "author": {
-                "name": "@jmsfbs",
-                "url": "https://cohost.org/jmsfbs"
-            },
-            "tags": [
-                "scotch",
-                "ardbeg",
-                "laphroaig"
-            ]
-        },
-        {
-            "id": "845495",
-            "content_html": "<p>It&#x27;s a weird thing.  I&#x27;ve got this project where I&#x27;m trying to honour all the songs I&#x27;ve ever written.  And this song I&#x27;m working on, its not one of my favourites.  I mean, it&#x27;s fine, but its hard to really enjoy a song you wrote as a 15 year old when you&#x27;re in your mid-thirties.</p>\n<p>But what I like doesn&#x27;t really matter because I still want each song to have a worthy recording.</p>\n<p>So I&#x27;ve got to wear the producer hat - make each song the best it can be even if I personally don&#x27;t enjoy the music anymore.  But at the same time use any taste that I have to make decisions about the production.</p>",
-            "url": "https://cohost.org/jmsfbs/post/845495-i-don-t-really-like",
-            "title": "I don't really like the track I'm working on",
-            "summary": "It's a weird thing. I've got this project where I'm trying to honour all the songs I've ever written. And this song I'm working on, its not one of my favourites. I mean, it's fine, but its hard to really enjoy a song you wrote as a 15 year old when you're in your mid-thirties.\n\nBut what I like doesn't really matter because I still want each song to have a worthy recording.\n\nSo I've got to wear the producer hat - make each song the best it can be even if I personally don't enjoy the music anymore. But at the same time use any taste that I have to make decisions about the production.",
-            "date_modified": "2023-01-14T23:05:29.886Z",
-            "date_published": "2023-01-14T23:04:16.695Z",
+            "id": "https://cohost.org/jmsfbs/post/1342661-post",
+            "content_html": "<p>I was on a bit of a roll with my home recording.  But a few things have lead to that coming to a hard and sudden stop.</p><hr/>\n<h2>GarageBand -&gt; Reaper</h2>\n<p>I worked on a few songs where I was pretty happy with the performance but not the mix.  I went on a deep dive on mixing/mastering and it seemed some of the most rudimentary techniques were hard to impossible in GarageBand.  I didn&#x27;t really want to jump to a real DAW too soon as I just wanted to make music, but at the same time I didn&#x27;t want to over invest in the wrong tools.</p>\n<p>I also didn&#x27;t see myself jumping into a very expensive tool chain, I couldn&#x27;t justify that to myself, I get why music software is expensive, and I think its actually a good thing for software to be expensive, in almost all other sectors there&#x27;s a serious case of deflation which leads to unsustainable business models.</p>\n<p>But I can&#x27;t blow thousands of dollars on software.</p>\n<p>Reaper seemed like an initial compromise to get access to the powerful features of professional DAWs without the exorbitant price tag.</p>\n<p>But after watching a lot of videos, particularly from <a href=\"https://www.youtube.com/@adamsteelproducer\" target=\"_self\" rel=\"nofollow\">Adam Steele</a> I think it isn&#x27;t even a compromise, it may actually be superior to more mainstream DAWs in many ways.</p>\n<p>But I&#x27;m a fish out of water, I have no idea what I am doing, so its slowed me down.</p>\n<h2>Mac -&gt; Windows</h2>\n<p>My M1 Macbook Air has had numerous issues in the year I&#x27;ve had it.  Most of these issues could be subsided with a little time and effort.  But recently I hit too issues that made me jump back to a Surface.</p>\n<p>First thing was, I installed a bunch of VST instruments, and ever since then, GarageBand will randomly crash without warning.  It seems this is common problem, and after following the recommended solutions and even after installing all plugins - the crashing continued.</p>\n<p>I started migrating files off the Mac in preparation to reinstall the OS, with the intent to stay with the Mac as my main machine.  Then out of nowhere the Arrow Key flew off the keyboard.  I watched some videos on how to re-attach it, but then discovered part of the plastic mechanism had snapped.</p>\n<p>I had a lot of deadlines for software projects, I needed a capable machine, so I bought a Surface (my 5th surface?).  My plan was to use the Surface for work and repair the Mac for music production.  But I knew Reaper worked on Windows, tried it out, and it worked perfectly so now I plan on just selling the Mac and doing everything on the one machine.</p>\n<p>I have to say, it was a joy to be back on windows again.  I had multi-monitor support again (something M1 Macbook Air&#x27;s can&#x27;t do!).  I could play fairly recent games.  I had a touch screen again, which is very useful for web/app development.  I don&#x27;t think I&#x27;ll be back on a Mac for a long time.  Windows has lots of issues, but if you know what you are doing you can curate a nice experience on the OS, its very hackable.  But I found the opposite with Mac OSX.</p>\n<h2>Reaper -&gt; Midi Instruments</h2>\n<p>GarageBand comes with a huge amount of Midi Instruments which is so great for quickly trying out different ideas - Reaper does not.  So trying to build up a nice / cheap midi library has been a time sink.</p>\n<h2>Reaper -&gt; Midi Drums</h2>\n<p>GarageBand&#x27;s Midi Mapping works so well on my little Alesis CompactKit and on my Arturia MiniLab.  Both instruments work on Reaper but the default Midi Mappings were a bit off, which means I need to play around with it and come up with some nice presets so I can do finger drumming and real drumming on the kit without too much friction.</p>\n<h2>Windows for Music Production</h2>\n<p>I was under the impression no-one does this.  But after a bit of youtube research, it seems it is less rare than I thought.  I was also pleasantly surprised that my evo4 worked out of the box with Repear.  I remembered years ago trying to do the most basic recording on Windows and it being a nightmare, but so far every piece of software I&#x27;ve looked at has had a Windows alternative, and the trials have all worked without a hitch (and without any crashes!).</p>\n<p>So we&#x27;ll see how this goes.  If there is a compelling reason to use a particular OS I&#x27;ll make the switch, but I am as surprised as anyone to be back on Windows for music production, I thought that was basically impossible.</p>",
+            "url": "https://cohost.org/jmsfbs/post/1342661-music-production-del",
+            "title": "Music Production Delays",
+            "summary": "I was on a bit of a roll with my home recording. But a few things have lead to that coming to a hard and sudden stop.\n\n----------------------------------------\n\n\nGARAGEBAND -> REAPER\n\nI worked on a few songs where I was pretty happy with the performance but not the mix. I went on a deep dive on mixing/mastering and it seemed some of the most rudimentary techniques were hard to impossible in GarageBand. I didn't really want to jump to a real DAW too soon as I just wanted to make music, but at the same time I didn't want to over invest in the wrong tools.\n\nI also didn't see myself jumping into a very expensive tool chain, I couldn't justify that to myself, I get why music software is expensive, and I think its actually a good thing for software to be expensive, in almost all other sectors there's a serious case of deflation which leads to unsustainable business models.\n\nBut I can't blow thousands of dollars on software.\n\nReaper seemed like an initial compromise to get access to the powerful features of professional DAWs without the exorbitant price tag.\n\nBut after watching a lot of videos, particularly from Adam Steele [https://www.youtube.com/@adamsteelproducer] I think it isn't even a compromise, it may actually be superior to more mainstream DAWs in many ways.\n\nBut I'm a fish out of water, I have no idea what I am doing, so its slowed me down.\n\n\nMAC -> WINDOWS\n\nMy M1 Macbook Air has had numerous issues in the year I've had it. Most of these issues could be subsided with a little time and effort. But recently I hit too issues that made me jump back to a Surface.\n\nFirst thing was, I installed a bunch of VST instruments, and ever since then, GarageBand will randomly crash without warning. It seems this is common problem, and after following the recommended solutions and even after installing all plugins - the crashing continued.\n\nI started migrating files off the Mac in preparation to reinstall the OS, with the intent to stay with the Mac as my main machine. Then out of nowhere the Arrow Key flew off the keyboard. I watched some videos on how to re-attach it, but then discovered part of the plastic mechanism had snapped.\n\nI had a lot of deadlines for software projects, I needed a capable machine, so I bought a Surface (my 5th surface?). My plan was to use the Surface for work and repair the Mac for music production. But I knew Reaper worked on Windows, tried it out, and it worked perfectly so now I plan on just selling the Mac and doing everything on the one machine.\n\nI have to say, it was a joy to be back on windows again. I had multi-monitor support again (something M1 Macbook Air's can't do!). I could play fairly recent games. I had a touch screen again, which is very useful for web/app development. I don't think I'll be back on a Mac for a long time. Windows has lots of issues, but if you know what you are doing you can curate a nice experience on the OS, its very hackable. But I found the opposite with Mac OSX.\n\n\nREAPER -> MIDI INSTRUMENTS\n\nGarageBand comes with a huge amount of Midi Instruments which is so great for quickly trying out different ideas - Reaper does not. So trying to build up a nice / cheap midi library has been a time sink.\n\n\nREAPER -> MIDI DRUMS\n\nGarageBand's Midi Mapping works so well on my little Alesis CompactKit and on my Arturia MiniLab. Both instruments work on Reaper but the default Midi Mappings were a bit off, which means I need to play around with it and come up with some nice presets so I can do finger drumming and real drumming on the kit without too much friction.\n\n\nWINDOWS FOR MUSIC PRODUCTION\n\nI was under the impression no-one does this. But after a bit of youtube research, it seems it is less rare than I thought. I was also pleasantly surprised that my evo4 worked out of the box with Repear. I remembered years ago trying to do the most basic recording on Windows and it being a nightmare, but so far every piece of software I've looked at has had a Windows alternative, and the trials have all worked without a hitch (and without any crashes!).\n\nSo we'll see how this goes. If there is a compelling reason to use a particular OS I'll make the switch, but I am as surprised as anyone to be back on Windows for music production, I thought that was basically impossible.",
+            "date_modified": "2023-04-16T03:22:10.628Z",
+            "date_published": "2023-04-16T03:22:10.622Z",
             "author": {
                 "name": "@jmsfbs",
                 "url": "https://cohost.org/jmsfbs"
             },
             "tags": [
                 "music",
+                "Music production",
                 "home recording",
-                "wicked"
+                "reaper",
+                "Midi",
+                "drums"
             ]
         },
         {
-            "id": "842542",
-            "content_html": "<p>A friend needed some money, they were hocking their guitars to the local music shop and they were going to pay them next to nothing.  So I offered to pay retail on all of them.  So now I&#x27;ve got 3 new guitars...</p>",
-            "url": "https://cohost.org/jmsfbs/post/842542-new-guitars",
-            "title": "New Guitars",
-            "summary": "A friend needed some money, they were hocking their guitars to the local music shop and they were going to pay them next to nothing. So I offered to pay retail on all of them. So now I've got 3 new guitars...",
-            "date_modified": "2023-01-14T23:05:50.402Z",
-            "date_published": "2023-01-14T08:02:09.219Z",
+            "id": "https://cohost.org/jmsfbs/post/1313723-post",
+            "content_html": "<p><a href=\"https://www.youtube.com/watch?v=AKoy_KMVIyU&amp;list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_&amp;index=2\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=AKoy_KMVIyU&amp;list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_&amp;index=2</a></p>",
+            "url": "https://cohost.org/jmsfbs/post/1313723-df-psych-oddysey",
+            "title": "DF: PsychOddysey",
+            "summary": "https://www.youtube.com/watch?v=AKoy_KMVIyU&list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_&index=2 [https://www.youtube.com/watch?v=AKoy_KMVIyU&list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_&index=2]",
+            "date_modified": "2023-04-10T14:25:35.773Z",
+            "date_published": "2023-04-10T14:25:11.099Z",
             "author": {
                 "name": "@jmsfbs",
                 "url": "https://cohost.org/jmsfbs"
             },
             "tags": [
-                "music",
-                "guitar"
+                "games",
+                "game design",
+                "gamedev",
+                "documentary"
             ]
         },
         {
-            "id": "829585",
-            "content_html": "<p>Did the first pass on a new track today.  It&#x27;s an old song, I couldn&#x27;t stand the lyrics so I took some new lyrics from my notebook.</p>\n<p>I don&#x27;t think this one will take weeks and weeks, might wrap it up in a few days.</p>\n<p>It used to be called See You When I&#x27;m Sane Again, think I&#x27;ll rename it Wicked</p>\n<p>Lyrics at the moment:</p>\n<pre><code>V1\nFlip a coin, I choose tails.\nSave me from that face.\nThat&#x27;s pressed into steel, so it all feels real\nI&#x27;m kneeling in waist high grass\n\nV2\nAm I allowed, to grieve the rest\nOr is it not the time yet\nIs it always the time, to remember the lives\nOf the children you sent to the cliffs\n\nC\nHave a rest, have a wicked time\nHave a rest, from your wicked mind\n\nV3\nTime is a lie, that never happened before\nTime is a memory you invented\nSo why would you care, about what&#x27;s never been there\nAnd who&#x27;s thoughts can never be mended \n</code></pre>\n<p>The Chorus and V3 are unchanged from when it was an emo song in my first year of high school.  But V1 and V2 are new.  But I think it works really well together.</p>\n<p>I&#x27;m usually hesitant to name songs based on the chorus, or what you&#x27;d expect.  I don&#x27;t know where that comes from.</p>",
-            "url": "https://cohost.org/jmsfbs/post/829585-songwriting-process",
-            "title": "Songwriting Process: Wicked",
-            "summary": "Did the first pass on a new track today. It's an old song, I couldn't stand the lyrics so I took some new lyrics from my notebook.\n\nI don't think this one will take weeks and weeks, might wrap it up in a few days.\n\nIt used to be called See You When I'm Sane Again, think I'll rename it Wicked\n\nLyrics at the moment:\n\nV1\nFlip a coin, I choose tails.\nSave me from that face.\nThat's pressed into steel, so it all feels real\nI'm kneeling in waist high grass\n\nV2\nAm I allowed, to grieve the rest\nOr is it not the time yet\nIs it always the time, to remember the lives\nOf the children you sent to the cliffs\n\nC\nHave a rest, have a wicked time\nHave a rest, from your wicked mind\n\nV3\nTime is a lie, that never happened before\nTime is a memory you invented\nSo why would you care, about what's never been there\nAnd who's thoughts can never be mended \n\n\nThe Chorus and V3 are unchanged from when it was an emo song in my first year of high school. But V1 and V2 are new. But I think it works really well together.\n\nI'm usually hesitant to name songs based on the chorus, or what you'd expect. I don't know where that comes from.",
-            "date_modified": "2023-01-14T03:29:35.266Z",
-            "date_published": "2023-01-12T07:02:25.657Z",
+            "id": "https://cohost.org/jmsfbs/post/1270030-post",
+            "content_html": "<p>Recently been playing Fallen Order.  I&#x27;m so impressed by it but the key thing that stands out to me is how the level design carefully plays with linearity.</p>\n<h2>Linearity</h2>\n<p>Linearity is when you force the player to only go down one path for progression.  Often blocking them with various challenges along the way to guarantee they experience exactly what we expect them to experience.</p>\n<p><a href=\"https://www.youtube.com/watch?v=GTYa9kX-K3M\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=GTYa9kX-K3M</a></p>\n<p>It lets the game designers &quot;know&quot; that you understand a mechanic or rule.  Which allows them to make assumptions which in-turn make the levels more interesting.</p>\n<blockquote>\n<p>You need to teach the player how to play.  You need to make sure they understand every mechanic of the game.  So every level in the first chapter needs to have some example <em>forcing</em> the player to do something in order to beat the level that they will need further in the game.</p>\n</blockquote>\n<p>Linearity also aids communication between game and player.  If a level is linear, and you can&#x27;t continue without solving some problem, its very clear you&#x27;ve reached a puzzle.  Its hard to have puzzles in non-linear games without somehow introducing linearity.</p>\n<p>These puzzles also let the player experience the joy of figuring out something without aid, while also knowing the problem they are being tasked to solve is solvable and important.</p>\n<blockquote>\n<p>Everybody in the world will see a problem and want to solve it.  If you see a level where it is just a wall, and you don&#x27;t realise you can keep jumping up the wall - you&#x27;re going to try it right away.  And once you try it yourself <strong>you&#x27;ve taught yourself</strong> and not only do you feel smart (you&#x27;ve figured out something yourself) you also now <em>for sure</em> know how to do that from then on in the game.</p>\n</blockquote>\n<p>Even open world games have linearity in the form of gates.  In Minecraft, you are gated by not having specific minerals or materials needed to craft items.  These crafted items in turn allow you to reach areas and access materials thatwere previously not possible to obtain.  Even though you can physically walk anywhere in Minecraft, you are still on a linear path of progression that was designed (unless if you are playing creative mode).</p>\n<p>In GTA you often can&#x27;t drive over a bridge, because there&#x27;s a mysterious road closure.  You also may find it difficult to access certain vehicles which allow you to access areas.</p>\n<p>Games like Braid or the Witness have linear progression in a very zen like way.  You always had the ability you just lacked the required knowledge.</p>\n<p>The problem is, for adventure games, the methodology of linearity is often quite clumsy.  The player notices what the game is doing, and finds the justification for it unconvincing.  It can feel like you are just grinding until you get to access the &quot;real&quot; game.</p>\n<h2>Red Key</h2>\n<p>Comparing Fallen Order to say Force Unleashed, the level design is completely different.  In Force Unleashed you are pretty much on rails from set piece to set piece.  Linearity is important to create a sense of progression, but it can also feel like you are being dragged by the heels to the next QTE.  It doesn&#x27;t feel like you are exploring a real place.</p>\n<p>Going back further to Jedi Outcast, we had large sprawling levels that loop around on themselves, but in Outcast those mazes feel just as artificial.  Once you kill the troopers, the halls are empty, and it is easy to forget what the hell you were doing as all the various hallways bleed together.  Often you revisit the same space to unlock a new area via a &quot;key&quot;.  This tradition carries us back to Dark Forces in the 90s.</p>\n<p>Fallen Order is interesting because we don&#x27;t have any keys. Areas are inaccessible because reaching a certain ledge, or breaking through a particular wall requires a power that the player is yet to learn.  The difference is subtle but there&#x27;s a lot of great qualities to this approach.</p>\n<p>For one, it creates anticipation.  When you haven&#x27;t yet found the red key, you don&#x27;t dream of the day when you&#x27;ll finally have the red key, and how exciting and thrilling it will be to wield that key.  The moment you collect the key, you immediately dispose of it by unlocking a door.  Collecting keys isn&#x27;t that different to fetch quests in World of Warcraft.  It is a way of stretching out the games content by ensuring you can&#x27;t visit and do everything all at once.</p>\n<p>In contrast to the red key: a new force power changes how you interact with every other system in that world.  It makes the system more complex, more interesting.  While it <em>is</em> a gate, it is not fungible with other gates, it is a new mechanical ingredient every time.  That respects the player a little more than &quot;you need {color} key to pass this door&quot;.  Ironically too, preventing you from accessing areas without a specific power actually adds value to that power in the players mind.  It creates additional demand.</p>\n<h2>Shortcuts</h2>\n<p>Fallen Order also has this idea of &quot;shortcuts&quot;.  When you do return somewhere you&#x27;ve already visited it is generally not to proceed to some previously unlocked door (as in Outcast), it is to make repeat visits to the same worlds less arduous.  As you explore a world, you increasingly find the levels are a network of secret tunnels.  It makes it simple to get back to any place in the world without having to perform the same feats of strength over and over.</p>\n<p>This makes it possible to complete a linear challenge (say exploring an underground temple, or navigating an icy cavern) and then return back to your ship and go to a different planet.  As you complete parts of the world, that part of the world becomes more open and non-linear and less game-like.</p>\n<h2>Rest</h2>\n<p>Throughout the map there are checkpoints, but you have to manually opt in to them.  These checkpoints are little circles on the ground where you can meditate, upgrade your force powers and &quot;rest&quot;.</p>\n<p>The &quot;rest&quot; mechanic allows you to replenish your health and stim packs but at the same time re-spawns all enemies.  That second part is interesting on a few levels.  The first is the implicit encouragement not to take the safe path, to continue on without healing, lest you face the same enemies you&#x27;ve already beaten.</p>\n<p>Ironically this makes a game feel less like a grind.  When you can safely heal with no consequences, there is no reason not to do so.  A player will usually pick the optimal path even if it isn&#x27;t as fun.  So as a designer you have to figure out ways to either make the optimal path the most fun, or penalize the optimal path in some way to encourage the player to actually participate in the challenge.  And the penalizing can so often feel unfair or arbitrary.  I think this trade-off strikes the right balance.</p>\n<p>Secondly, it means our levels are rarely empty.  They feel alive, like real places.  Usually you have long dispatched all the enemies and simply walk lonely hallways trying to figure out how to get pass some arbitrary gate.  At least in Fallen Order, the animals and the guards are continually reborn, and because of the aforementioned trade-off, that feels fair.  Or the level is empty, but you are likely low on health so there is an element of peril which keeps things interesting.</p>\n<p>Through shortcuts, rest, and ability based gating, Fallen Order manages to change the perceived shape of its levels as you play.  And therefore the genre shifts between linear on rails adventure to open world brawler/rpg.  But not just once, continually.  They manage to pull this off without it feeling like an experimental porridge.  They get to have the epic cinematic Star Wars set pieces we expect, without the feeling you are on a guided DisneyLand tour.</p>",
+            "url": "https://cohost.org/jmsfbs/post/1270030-loopy-levels-in-fall",
+            "title": "Loopy Levels in Fallen Order",
+            "summary": "Recently been playing Fallen Order. I'm so impressed by it but the key thing that stands out to me is how the level design carefully plays with linearity.\n\n\nLINEARITY\n\nLinearity is when you force the player to only go down one path for progression. Often blocking them with various challenges along the way to guarantee they experience exactly what we expect them to experience.\n\nhttps://www.youtube.com/watch?v=GTYa9kX-K3M [https://www.youtube.com/watch?v=GTYa9kX-K3M]\n\nIt lets the game designers \"know\" that you understand a mechanic or rule. Which allows them to make assumptions which in-turn make the levels more interesting.\n\n> You need to teach the player how to play. You need to make sure they understand every mechanic of the game. So every level in the first chapter needs to have some example forcing the player to do something in order to beat the level that they will need further in the game.\n\nLinearity also aids communication between game and player. If a level is linear, and you can't continue without solving some problem, its very clear you've reached a puzzle. Its hard to have puzzles in non-linear games without somehow introducing linearity.\n\nThese puzzles also let the player experience the joy of figuring out something without aid, while also knowing the problem they are being tasked to solve is solvable and important.\n\n> Everybody in the world will see a problem and want to solve it. If you see a level where it is just a wall, and you don't realise you can keep jumping up the wall - you're going to try it right away. And once you try it yourself you've taught yourself and not only do you feel smart (you've figured out something yourself) you also now for sure know how to do that from then on in the game.\n\nEven open world games have linearity in the form of gates. In Minecraft, you are gated by not having specific minerals or materials needed to craft items. These crafted items in turn allow you to reach areas and access materials thatwere previously not possible to obtain. Even though you can physically walk anywhere in Minecraft, you are still on a linear path of progression that was designed (unless if you are playing creative mode).\n\nIn GTA you often can't drive over a bridge, because there's a mysterious road closure. You also may find it difficult to access certain vehicles which allow you to access areas.\n\nGames like Braid or the Witness have linear progression in a very zen like way. You always had the ability you just lacked the required knowledge.\n\nThe problem is, for adventure games, the methodology of linearity is often quite clumsy. The player notices what the game is doing, and finds the justification for it unconvincing. It can feel like you are just grinding until you get to access the \"real\" game.\n\n\nRED KEY\n\nComparing Fallen Order to say Force Unleashed, the level design is completely different. In Force Unleashed you are pretty much on rails from set piece to set piece. Linearity is important to create a sense of progression, but it can also feel like you are being dragged by the heels to the next QTE. It doesn't feel like you are exploring a real place.\n\nGoing back further to Jedi Outcast, we had large sprawling levels that loop around on themselves, but in Outcast those mazes feel just as artificial. Once you kill the troopers, the halls are empty, and it is easy to forget what the hell you were doing as all the various hallways bleed together. Often you revisit the same space to unlock a new area via a \"key\". This tradition carries us back to Dark Forces in the 90s.\n\nFallen Order is interesting because we don't have any keys. Areas are inaccessible because reaching a certain ledge, or breaking through a particular wall requires a power that the player is yet to learn. The difference is subtle but there's a lot of great qualities to this approach.\n\nFor one, it creates anticipation. When you haven't yet found the red key, you don't dream of the day when you'll finally have the red key, and how exciting and thrilling it will be to wield that key. The moment you collect the key, you immediately dispose of it by unlocking a door. Collecting keys isn't that different to fetch quests in World of Warcraft. It is a way of stretching out the games content by ensuring you can't visit and do everything all at once.\n\nIn contrast to the red key: a new force power changes how you interact with every other system in that world. It makes the system more complex, more interesting. While it is a gate, it is not fungible with other gates, it is a new mechanical ingredient every time. That respects the player a little more than \"you need {color} key to pass this door\". Ironically too, preventing you from accessing areas without a specific power actually adds value to that power in the players mind. It creates additional demand.\n\n\nSHORTCUTS\n\nFallen Order also has this idea of \"shortcuts\". When you do return somewhere you've already visited it is generally not to proceed to some previously unlocked door (as in Outcast), it is to make repeat visits to the same worlds less arduous. As you explore a world, you increasingly find the levels are a network of secret tunnels. It makes it simple to get back to any place in the world without having to perform the same feats of strength over and over.\n\nThis makes it possible to complete a linear challenge (say exploring an underground temple, or navigating an icy cavern) and then return back to your ship and go to a different planet. As you complete parts of the world, that part of the world becomes more open and non-linear and less game-like.\n\n\nREST\n\nThroughout the map there are checkpoints, but you have to manually opt in to them. These checkpoints are little circles on the ground where you can meditate, upgrade your force powers and \"rest\".\n\nThe \"rest\" mechanic allows you to replenish your health and stim packs but at the same time re-spawns all enemies. That second part is interesting on a few levels. The first is the implicit encouragement not to take the safe path, to continue on without healing, lest you face the same enemies you've already beaten.\n\nIronically this makes a game feel less like a grind. When you can safely heal with no consequences, there is no reason not to do so. A player will usually pick the optimal path even if it isn't as fun. So as a designer you have to figure out ways to either make the optimal path the most fun, or penalize the optimal path in some way to encourage the player to actually participate in the challenge. And the penalizing can so often feel unfair or arbitrary. I think this trade-off strikes the right balance.\n\nSecondly, it means our levels are rarely empty. They feel alive, like real places. Usually you have long dispatched all the enemies and simply walk lonely hallways trying to figure out how to get pass some arbitrary gate. At least in Fallen Order, the animals and the guards are continually reborn, and because of the aforementioned trade-off, that feels fair. Or the level is empty, but you are likely low on health so there is an element of peril which keeps things interesting.\n\nThrough shortcuts, rest, and ability based gating, Fallen Order manages to change the perceived shape of its levels as you play. And therefore the genre shifts between linear on rails adventure to open world brawler/rpg. But not just once, continually. They manage to pull this off without it feeling like an experimental porridge. They get to have the epic cinematic Star Wars set pieces we expect, without the feeling you are on a guided DisneyLand tour.",
+            "date_modified": "2023-04-04T11:22:14.252Z",
+            "date_published": "2023-04-02T01:12:49.299Z",
             "author": {
                 "name": "@jmsfbs",
                 "url": "https://cohost.org/jmsfbs"
             },
             "tags": [
-                "songwriting",
-                "home recording",
-                "lyrics",
-                "wicked"
+                "gamedev",
+                "game design",
+                "level design",
+                "fallen order"
             ]
         },
         {
-            "id": "827539",
-            "content_html": "<p><a href=\"https://jmsfbs.bandcamp.com/track/never\" target=\"_self\" rel=\"nofollow\">https://jmsfbs.bandcamp.com/track/never</a></p>",
-            "url": "https://cohost.org/jmsfbs/post/827539-new-track-never",
-            "title": "New Track: Never",
-            "summary": "https://jmsfbs.bandcamp.com/track/never [https://jmsfbs.bandcamp.com/track/never]",
-            "date_modified": "2023-01-26T03:09:57.178Z",
-            "date_published": "2023-01-12T00:11:57.003Z",
+            "id": "https://cohost.org/jmsfbs/post/1166928-post",
+            "content_html": "<p>Feel like a great burden has been lifted</p>",
+            "url": "https://cohost.org/jmsfbs/post/1166928-just-finished-saints",
+            "title": "Just finished Saints Row 4",
+            "summary": "Feel like a great burden has been lifted",
+            "date_modified": "2023-03-12T12:10:44.391Z",
+            "date_published": "2023-03-12T12:10:44.390Z",
             "author": {
                 "name": "@jmsfbs",
                 "url": "https://cohost.org/jmsfbs"
             },
             "tags": [
-                "music",
-                "jmsfbs",
-                "home-recording",
-                "alt-country",
-                "indie rock"
-            ]
-        },
-        {
-            "id": "823558",
-            "content_html": "<p>Did some vocal and drum takes at home today on that song I&#x27;ve been working on for months.  Few observations.</p>\n<h3>Vocal Levels</h3>\n<p>I&#x27;ve been trying to get the right vox sound / level for a long time.  I&#x27;ve played with singing close and getting a lot of detail, but also a lot of breathing and mouth noises, and this isn&#x27;t meant to be ASMR.</p>\n<p>Then I tried singing far back, but you lose the volume and you end up needing to gain it up.  And I try every place in between.</p>\n<p>Today I did the room sound thing, with the recording level all the way up, and I put my beanie in front of the mic to act as a kind of pop guard when I got closer.</p>\n<p>I&#x27;m only using GarageBand, and I don&#x27;t like how the volume automation limits you from using the volume slider for each track later (it locks it).  So I just split the track by loud/soft parts and manually level them.  I know this is really dumb but I like to tweak levels so much and GarageBand&#x27;s automation is all or nothing.  Maybe I&#x27;m missing something.</p>\n<h3>Late Kick</h3>\n<p>For the drums.  I noticed my kick is usually a bit early in this song.  And I couldn&#x27;t get it right, no matter what I did.  It really frustrated me because while I was playing I felt I was on the beat and everything else was on the beat, but the kick was just a bit off.</p>\n<p>I couldn&#x27;t figure out why this was happening now but not before, then I realised - I just got new shoes.  Then I went on a big google and found a lot of drummers play in socks, so I thought I&#x27;d try that.  On these little fiddly pedals on this toy kit it didn&#x27;t really work, the pedal kept moving around.  Eventually I went to my old shoes and my beat wasn&#x27;t off anymore.  So somewhere in my brain I&#x27;ve managed to add the necessary delay for the sole of the shoe vs the sole of my foot, I don&#x27;t know, it&#x27;s a mystery to me.</p>\n<h3>Playing Straight</h3>\n<p>I&#x27;ve been working on the drums in the solo/breakdown section.  I came up with this pretty cool tom pattern and practiced it endlessly for days.  But after the drama with getting the kick to stay on beat I thought I&#x27;d just play straight through the whole section and maybe work on it later as a separate layer.  I&#x27;m also getting tired of working on this song so I thought I&#x27;d maybe have a basic drum track and move on.  Thing was, playing straight sounded better.  And I noticed listening back, whenever I went to the toms from the crash/ride it sounded hollow or empty.  So I just alternated between open high hat, crash and ride but played pretty straight and I think it worked.</p>\n<h3>Playing Drums without the Click</h3>\n<p>I noticed I like where the drums fall better when I play off click.  So tried playing off click and turned the click back on when listening to hear my errors.  I&#x27;m not sure if I&#x27;m going to stick with this approach but it just felt more like the drums were playing with the other instruments instead of being a robot.</p>\n<h3>Real DAW?</h3>\n<p>There&#x27;s a few small things that bug me about GarageBand.  And I think I should stick with it for a while longer just to keep productive and not get distracted.  But I&#x27;m starting to watch videos on different DAWs and so far Reaper looks pretty interesting to me.</p>",
-            "url": "https://cohost.org/jmsfbs/post/823558-home-recording",
-            "title": "Home Recording",
-            "summary": "Did some vocal and drum takes at home today on that song I've been working on for months. Few observations.\n\n\nVOCAL LEVELS\n\nI've been trying to get the right vox sound / level for a long time. I've played with singing close and getting a lot of detail, but also a lot of breathing and mouth noises, and this isn't meant to be ASMR.\n\nThen I tried singing far back, but you lose the volume and you end up needing to gain it up. And I try every place in between.\n\nToday I did the room sound thing, with the recording level all the way up, and I put my beanie in front of the mic to act as a kind of pop guard when I got closer.\n\nI'm only using GarageBand, and I don't like how the volume automation limits you from using the volume slider for each track later (it locks it). So I just split the track by loud/soft parts and manually level them. I know this is really dumb but I like to tweak levels so much and GarageBand's automation is all or nothing. Maybe I'm missing something.\n\n\nLATE KICK\n\nFor the drums. I noticed my kick is usually a bit early in this song. And I couldn't get it right, no matter what I did. It really frustrated me because while I was playing I felt I was on the beat and everything else was on the beat, but the kick was just a bit off.\n\nI couldn't figure out why this was happening now but not before, then I realised - I just got new shoes. Then I went on a big google and found a lot of drummers play in socks, so I thought I'd try that. On these little fiddly pedals on this toy kit it didn't really work, the pedal kept moving around. Eventually I went to my old shoes and my beat wasn't off anymore. So somewhere in my brain I've managed to add the necessary delay for the sole of the shoe vs the sole of my foot, I don't know, it's a mystery to me.\n\n\nPLAYING STRAIGHT\n\nI've been working on the drums in the solo/breakdown section. I came up with this pretty cool tom pattern and practiced it endlessly for days. But after the drama with getting the kick to stay on beat I thought I'd just play straight through the whole section and maybe work on it later as a separate layer. I'm also getting tired of working on this song so I thought I'd maybe have a basic drum track and move on. Thing was, playing straight sounded better. And I noticed listening back, whenever I went to the toms from the crash/ride it sounded hollow or empty. So I just alternated between open high hat, crash and ride but played pretty straight and I think it worked.\n\n\nPLAYING DRUMS WITHOUT THE CLICK\n\nI noticed I like where the drums fall better when I play off click. So tried playing off click and turned the click back on when listening to hear my errors. I'm not sure if I'm going to stick with this approach but it just felt more like the drums were playing with the other instruments instead of being a robot.\n\n\nREAL DAW?\n\nThere's a few small things that bug me about GarageBand. And I think I should stick with it for a while longer just to keep productive and not get distracted. But I'm starting to watch videos on different DAWs and so far Reaper looks pretty interesting to me.",
-            "date_modified": "2023-01-11T07:23:33.609Z",
-            "date_published": "2023-01-11T07:23:33.601Z",
-            "author": {
-                "name": "@jmsfbs",
-                "url": "https://cohost.org/jmsfbs"
-            },
-            "tags": [
-                "home recording",
-                "home studio",
-                "drums",
-                "DAW"
-            ]
-        },
-        {
-            "id": "796622",
-            "content_html": "<figure><img alt=\"art from scottc.com\" title=\"art from scottc.com\" src=\"https://staging.cohostcdn.org/attachment/ae8c6b74-3935-4deb-89cb-d8cf158910b6/BrutalLegend_Concepts_ScottC_26.jpg\"/><figcaption>art from scottc.com</figcaption></figure><p><a href=\"https://www.gamedeveloper.com/audio/postmortem-double-fine-s-i-brutal-legend-i-\" target=\"_self\" rel=\"nofollow\">https://www.gamedeveloper.com/audio/postmortem-double-fine-s-i-brutal-legend-i-</a></p>\n<p>i know basically Zero about the intricacies of general game development stuff<br/>\nbut reading postmortems always feels cool, like a little peek behind the curtain on what went right and wrong on a video game<br/>\nbrutal legend isnt a perfect game but i think its pretty dang awesome<br/>\nits larger than life and it feels like a game thats too big to exist!<br/>\nbut against all odds, it does!<br/>\nits a game with a high concept idea of taking this music genre (metal) and trying to fully encompass it and as many of its various subgenres as it can<br/>\nin my opinion, it succeeded in doing this wonderfully<br/>\nthats amazing and i will forever respect brutal legend for that valiant effort</p>",
-            "url": "https://cohost.org/bunp/post/796622-read-a-good-postmort",
-            "title": "read a good postmortem",
-            "summary": "https://www.gamedeveloper.com/audio/postmortem-double-fine-s-i-brutal-legend-i- [https://www.gamedeveloper.com/audio/postmortem-double-fine-s-i-brutal-legend-i-]\n\ni know basically Zero about the intricacies of general game development stuff\nbut reading postmortems always feels cool, like a little peek behind the curtain on what went right and wrong on a video game\nbrutal legend isnt a perfect game but i think its pretty dang awesome\nits larger than life and it feels like a game thats too big to exist!\nbut against all odds, it does!\nits a game with a high concept idea of taking this music genre (metal) and trying to fully encompass it and as many of its various subgenres as it can\nin my opinion, it succeeded in doing this wonderfully\nthats amazing and i will forever respect brutal legend for that valiant effort",
-            "image": "https://staging.cohostcdn.org/attachment/ae8c6b74-3935-4deb-89cb-d8cf158910b6/BrutalLegend_Concepts_ScottC_26.jpg",
-            "date_modified": "2023-01-06T19:39:20.943Z",
-            "date_published": "2023-01-06T19:39:20.932Z",
-            "author": {
-                "name": "@bunp",
-                "url": "https://cohost.org/bunp"
-            },
-            "tags": [
-                "game",
-                "gaming",
-                "Double Fine",
-                "brutal legend",
-                "The Cohost Global Feed",
-                "game dev",
-                "music",
-                "metal"
-            ]
-        },
-        {
-            "id": "779120",
-            "content_html": "<p><a href=\"https://youtu.be/nSOt-H2kxmM\" target=\"_self\" rel=\"nofollow\">https://youtu.be/nSOt-H2kxmM</a></p>\n<p>Pretty cool video showing a shoe factory in Mexico.  I was getting frustrated by the lack of size 14 shoes available online and wondered, how hard is it to make your own shoe.  Turns out its a super involved process with lots of machinery and workers.</p>\n<p>But then I found people legitimately making their own shoes at home too and there&#x27;s courses to learn how to do it.  I don&#x27;t think it&#x27;s something I&#x27;d ever do but it&#x27;s cool to know it is possible.</p>",
-            "url": "https://cohost.org/jmsfbs/post/779120-how-sneakers-are-man",
-            "title": "How sneakers are manufactured",
-            "summary": "https://youtu.be/nSOt-H2kxmM [https://youtu.be/nSOt-H2kxmM]\n\nPretty cool video showing a shoe factory in Mexico. I was getting frustrated by the lack of size 14 shoes available online and wondered, how hard is it to make your own shoe. Turns out its a super involved process with lots of machinery and workers.\n\nBut then I found people legitimately making their own shoes at home too and there's courses to learn how to do it. I don't think it's something I'd ever do but it's cool to know it is possible.",
-            "date_modified": "2023-01-04T23:51:09.132Z",
-            "date_published": "2023-01-04T03:51:48.931Z",
-            "author": {
-                "name": "@jmsfbs",
-                "url": "https://cohost.org/jmsfbs"
-            },
-            "tags": [
-                "shoes",
-                "diy",
-                "manufacturing"
-            ]
-        },
-        {
-            "id": "767388",
-            "content_html": "<figure><img alt=\"\" title=\"\" src=\"https://staging.cohostcdn.org/attachment/a5d93351-de36-469b-8ae0-0857ca09985a/Screenshot%202023-01-02%20193640.png\"/></figure><p>Hmmm</p>",
-            "url": "https://cohost.org/jmsfbs/post/767388-hmmm",
-            "summary": "Hmmm",
-            "image": "https://staging.cohostcdn.org/attachment/a5d93351-de36-469b-8ae0-0857ca09985a/Screenshot%202023-01-02%20193640.png",
-            "date_modified": "2023-01-02T08:37:38.488Z",
-            "date_published": "2023-01-02T08:37:38.481Z",
-            "author": {
-                "name": "@jmsfbs",
-                "url": "https://cohost.org/jmsfbs"
-            },
-            "tags": [
-                "#stacklands",
                 "games"
             ]
         },
         {
-            "id": "766452",
-            "content_html": "<p>On my last birthday, my partner got me a 2 in 2 out USB interface.  Its kind of silly how much of an impact it had on me, I could have always bought one, I knew they were important, people had recommended them to me.  It was just one of those things I put off because I couldn&#x27;t easily justify it.</p>\n<p>But as soon as I got it I could record demos that sounded so clear.  I recorded all the time.  But this new found fidelity was sort of a curse, immediately I noticed holes in the songs I didn&#x27;t mind before when the recording was rougher.  The first thing that bothered me was the lack of bass.  I don&#x27;t have a bass, I tried to make my guitar sound like a bass but it isn&#x27;t convincing unless if add on a bit of a fuzz so it was limiting.  So my next major purchase was a Bose octave pedal.  It&#x27;s not perfect but it was so much more convincing than doing it in software.</p>\n<p>Immediately after having semi-convincing bass I knew I needed drums.  I started with &quot;musical-typing&quot; in garageband, I&#x27;d later learn this is called &quot;finger drumming&quot;.  I found keeping my fingers independently playing different parts of the beat was a real struggle.  So I thought why not do some drum exercises but with my fingers.  So I went on a big youtube journey watching drumming tutorials, and I practiced these exercises over and over.  I noticed my brain could start to mentally separate the layers and put one finger in auto pilot to allow variation in the rhythm elsewhere.  I later learned this is called &quot;limb independence&quot;.</p>\n<p>So I started finger drumming over the songs I had recorded.  For some songs it was great, but for others it was limiting.  Because things that would be easier with 4 limbs are much harder with 1 hand.  Maintaining a kick pattern over a tom pattern on one hand is super tricky.</p>\n<p>I also noticed I was able to translate my limb independence to my full limbs when just tapping on a table and kicking on the floor.  So in my mind I felt I&#x27;d learnt enough to justify an upgrade to some kind of electronic kit.  One particular song <strong>Never</strong> frustrated me enough to force me over the line.  It&#x27;s a pseudo country song and parts of it require a shuffle, and I just couldn&#x27;t keep it up with my fingers, I was sure I could do it on a proper kit.</p>\n<p>So I bought the Alesis CompactKit for &lt;$300.  When I watched videos on it, it looked like a lot of parents bought it for their kids, but what interested me was it had USB midi out.  I could record direct to midi into GarageBand.  Yes it is a bit of a toy, but I love it to bits!</p>\n<p>But I immediately found, some skills transferred from finger drumming but others didn&#x27;t.  I needed to learn how to hold the sticks, how to not strain my wrist, how to not get super tired constantly staying in time and hitting the kick.</p>\n<p>So I stopped home recording and just focused on getting good at playing this thing for about 3 months.</p>\n<p>My process was to play along with music I felt I had a chance keeping up with, and when I struggled on one particular section I&#x27;d turn that section into an exercise.  One thing that really helps me is moving the same beat across different parts of the kit.  My mental model is, I don&#x27;t want to get muscle memory for specific positions on the kit, I want to build those neural pathways for the rhythm itself, and I should be able to play that same beat with any combination of my arms or legs on any combination of cymbal, tom, snare, kick, crash etc.</p>\n<p>For the exercises I&#x27;d play really slow, usually 60 or 50 bpm and stay there until I was playing it absolutely perfectly.  Then I&#x27;d knock it up 10 bpm at a time.  I could spend hours playing the same exercise until it clicked.  Then I&#x27;d hit play on the song and if I could play it through I was allowed to stop.</p>\n<p>The CompactKit has an audio line in jack so you can feed music through the speakers on the kit, but also plug in headphones to the kit and get the mix into your headphones without any computer necessary.  I think it is so helpful to be able to play with headphones as its less embarrassing playing the same thing over and over.  But also I&#x27;ve found playing with headphones off helps a lot with technique as you notice subtle things that don&#x27;t come through on the midi, e.g. like how your stick is sounding hitting the pads, or if you&#x27;re accidentally hitting the chassis.</p>\n<p>I&#x27;m now at the point where I&#x27;m trying to bring what I&#x27;ve learnt back to home recording.  It is a struggle because you&#x27;re not playing to some other beat, you are the beat.  And you have to write/curate that beat with the skills you know, ensuring its helping the song be what it wants to be, that you are keeping time, and that you&#x27;re not over doing it or making the song boring.  It&#x27;s a separate skill to playing, but it is a compatible skill.</p>\n<p>I&#x27;ve been writing songs for a long time, but I stopped for about 10 years.  My theory is, I&#x27;m never forced into boring situations anymore.  I don&#x27;t have to walk anywhere, or catch the bus or train.  I&#x27;m constantly occupied either by work, or whatever else.  So there&#x27;s no chance for that part of my brain to work.  And prior to that I was living in small apartments where I didn&#x27;t feel I could be creative as it would annoy the neighbours.  I know other people where this doesn&#x27;t stop them at all.  Maybe me growing up in a rural area has made me require more space to be creative.  I hope it comes back one day.</p>\n<p>As I can&#x27;t write new songs, I thought I should try and do justice to my existing songs.  So I&#x27;m aiming to record literally everything I&#x27;ve ever written (at least what I can find/remember).  And I&#x27;m deliberately starting with the oldest stuff, the stuff I&#x27;m least proud of because otherwise I&#x27;d probably never record those songs.  Recording newer songs feels like a carrot I can dangle in front of myself.</p>\n<p>I don&#x27;t even know if I&#x27;ll release them or not, it&#x27;s not really about that.  It&#x27;s not about a legacy or others knowing about those songs.  I feel like each song is a person or a shard of me at a certain time in my life, and those songs not being recorded properly, its like they are malnourished, I feel actual guilt for letting them fade.</p>\n<p>It&#x27;s also a kind of therapy for me.  I work a lot, I&#x27;m a programmer, I contract out, I have a business.  I contribute to different projects and my life has lost balance over the years.  So having this epic project of recording everything, its something I can always come back to, it stops me getting rusty, it helps me remember parts of myself and not get lost.</p>",
-            "url": "https://cohost.org/jmsfbs/post/766452-home-recording-journ",
-            "title": "Home Recording Journey",
-            "summary": "On my last birthday, my partner got me a 2 in 2 out USB interface. Its kind of silly how much of an impact it had on me, I could have always bought one, I knew they were important, people had recommended them to me. It was just one of those things I put off because I couldn't easily justify it.\n\nBut as soon as I got it I could record demos that sounded so clear. I recorded all the time. But this new found fidelity was sort of a curse, immediately I noticed holes in the songs I didn't mind before when the recording was rougher. The first thing that bothered me was the lack of bass. I don't have a bass, I tried to make my guitar sound like a bass but it isn't convincing unless if add on a bit of a fuzz so it was limiting. So my next major purchase was a Bose octave pedal. It's not perfect but it was so much more convincing than doing it in software.\n\nImmediately after having semi-convincing bass I knew I needed drums. I started with \"musical-typing\" in garageband, I'd later learn this is called \"finger drumming\". I found keeping my fingers independently playing different parts of the beat was a real struggle. So I thought why not do some drum exercises but with my fingers. So I went on a big youtube journey watching drumming tutorials, and I practiced these exercises over and over. I noticed my brain could start to mentally separate the layers and put one finger in auto pilot to allow variation in the rhythm elsewhere. I later learned this is called \"limb independence\".\n\nSo I started finger drumming over the songs I had recorded. For some songs it was great, but for others it was limiting. Because things that would be easier with 4 limbs are much harder with 1 hand. Maintaining a kick pattern over a tom pattern on one hand is super tricky.\n\nI also noticed I was able to translate my limb independence to my full limbs when just tapping on a table and kicking on the floor. So in my mind I felt I'd learnt enough to justify an upgrade to some kind of electronic kit. One particular song Never frustrated me enough to force me over the line. It's a pseudo country song and parts of it require a shuffle, and I just couldn't keep it up with my fingers, I was sure I could do it on a proper kit.\n\nSo I bought the Alesis CompactKit for <$300. When I watched videos on it, it looked like a lot of parents bought it for their kids, but what interested me was it had USB midi out. I could record direct to midi into GarageBand. Yes it is a bit of a toy, but I love it to bits!\n\nBut I immediately found, some skills transferred from finger drumming but others didn't. I needed to learn how to hold the sticks, how to not strain my wrist, how to not get super tired constantly staying in time and hitting the kick.\n\nSo I stopped home recording and just focused on getting good at playing this thing for about 3 months.\n\nMy process was to play along with music I felt I had a chance keeping up with, and when I struggled on one particular section I'd turn that section into an exercise. One thing that really helps me is moving the same beat across different parts of the kit. My mental model is, I don't want to get muscle memory for specific positions on the kit, I want to build those neural pathways for the rhythm itself, and I should be able to play that same beat with any combination of my arms or legs on any combination of cymbal, tom, snare, kick, crash etc.\n\nFor the exercises I'd play really slow, usually 60 or 50 bpm and stay there until I was playing it absolutely perfectly. Then I'd knock it up 10 bpm at a time. I could spend hours playing the same exercise until it clicked. Then I'd hit play on the song and if I could play it through I was allowed to stop.\n\nThe CompactKit has an audio line in jack so you can feed music through the speakers on the kit, but also plug in headphones to the kit and get the mix into your headphones without any computer necessary. I think it is so helpful to be able to play with headphones as its less embarrassing playing the same thing over and over. But also I've found playing with headphones off helps a lot with technique as you notice subtle things that don't come through on the midi, e.g. like how your stick is sounding hitting the pads, or if you're accidentally hitting the chassis.\n\nI'm now at the point where I'm trying to bring what I've learnt back to home recording. It is a struggle because you're not playing to some other beat, you are the beat. And you have to write/curate that beat with the skills you know, ensuring its helping the song be what it wants to be, that you are keeping time, and that you're not over doing it or making the song boring. It's a separate skill to playing, but it is a compatible skill.\n\nI've been writing songs for a long time, but I stopped for about 10 years. My theory is, I'm never forced into boring situations anymore. I don't have to walk anywhere, or catch the bus or train. I'm constantly occupied either by work, or whatever else. So there's no chance for that part of my brain to work. And prior to that I was living in small apartments where I didn't feel I could be creative as it would annoy the neighbours. I know other people where this doesn't stop them at all. Maybe me growing up in a rural area has made me require more space to be creative. I hope it comes back one day.\n\nAs I can't write new songs, I thought I should try and do justice to my existing songs. So I'm aiming to record literally everything I've ever written (at least what I can find/remember). And I'm deliberately starting with the oldest stuff, the stuff I'm least proud of because otherwise I'd probably never record those songs. Recording newer songs feels like a carrot I can dangle in front of myself.\n\nI don't even know if I'll release them or not, it's not really about that. It's not about a legacy or others knowing about those songs. I feel like each song is a person or a shard of me at a certain time in my life, and those songs not being recorded properly, its like they are malnourished, I feel actual guilt for letting them fade.\n\nIt's also a kind of therapy for me. I work a lot, I'm a programmer, I contract out, I have a business. I contribute to different projects and my life has lost balance over the years. So having this epic project of recording everything, its something I can always come back to, it stops me getting rusty, it helps me remember parts of myself and not get lost.",
-            "date_modified": "2023-01-02T04:51:57.360Z",
-            "date_published": "2023-01-02T04:30:17.830Z",
+            "id": "https://cohost.org/jmsfbs/post/1105201-post",
+            "content_html": "<p>I finished Cloudpunk and it was great.</p>\n<p>More thoughts below the fold.</p><hr/>\n<p>The voice acting was excellent and the characters and their relationships felt real, especially the core cast.  I also liked the way they paced the missions so that you&#x27;d immediately get a call when you got back into your vehicle but not when you&#x27;re roaming around the city on foot.</p>\n<p>Sometimes the political commentary of Cloudpunk is a bit overwrought.  It&#x27;s not that the commentary is bad (or even the politics), its just a little didactic and saccharine.  The way they draw the connection that in this civilisation robots are the new black people or trans people in this new civilisation... it&#x27;s fine, but it feels like it isn&#x27;t contributing anything new and instead is delving into political territory so it can have a bit of emotional depth and complexity that it would otherwise not have.</p>\n<p>If you are going to have some political commentary take a bit more of a chance and make a statement instead of just going &quot;isn&#x27;t this thing like this other thing ... huh&quot;</p>\n<p>The only reason this frustrated me was how close they came to make a point and then not doing so.</p>\n<p>I found this thread on steam&#x27;s forums from a trans person commenting on the allegory which I thought was interesting (<a href=\"https://steamcommunity.com/app/746850/discussions/0/2270321250018217133/\" target=\"_self\" rel=\"nofollow\">link</a>)</p>\n<p>When the political commentary focused on capitalism, I think the one interesting idea was the debt corps.  The idea that in the future we may be brought back to life from the dead to work off our debts.  Unmistakable capitalistic logic, if we had the technology, I&#x27;m sure it would happen.</p>\n<p>Overall I very much enjoyed Cloudpunk.  I read on reddit later that the Switch port was far worse than the PC version, but I still thought it was great despite the low draw distance and very occasional crashes.  But that&#x27;s just me, I don&#x27;t care too much about graphical fidelity, and if anything the low draw distance added to the mood.</p>\n<p><a href=\"https://www.youtube.com/watch?v=5y891t5q7K8\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=5y891t5q7K8</a></p>",
+            "url": "https://cohost.org/jmsfbs/post/1105201-cloudpunk",
+            "title": "Cloudpunk",
+            "summary": "I finished Cloudpunk and it was great.\n\nMore thoughts below the fold.\n\n----------------------------------------\n\nThe voice acting was excellent and the characters and their relationships felt real, especially the core cast. I also liked the way they paced the missions so that you'd immediately get a call when you got back into your vehicle but not when you're roaming around the city on foot.\n\nSometimes the political commentary of Cloudpunk is a bit overwrought. It's not that the commentary is bad (or even the politics), its just a little didactic and saccharine. The way they draw the connection that in this civilisation robots are the new black people or trans people in this new civilisation... it's fine, but it feels like it isn't contributing anything new and instead is delving into political territory so it can have a bit of emotional depth and complexity that it would otherwise not have.\n\nIf you are going to have some political commentary take a bit more of a chance and make a statement instead of just going \"isn't this thing like this other thing ... huh\"\n\nThe only reason this frustrated me was how close they came to make a point and then not doing so.\n\nI found this thread on steam's forums from a trans person commenting on the allegory which I thought was interesting (link [https://steamcommunity.com/app/746850/discussions/0/2270321250018217133/])\n\nWhen the political commentary focused on capitalism, I think the one interesting idea was the debt corps. The idea that in the future we may be brought back to life from the dead to work off our debts. Unmistakable capitalistic logic, if we had the technology, I'm sure it would happen.\n\nOverall I very much enjoyed Cloudpunk. I read on reddit later that the Switch port was far worse than the PC version, but I still thought it was great despite the low draw distance and very occasional crashes. But that's just me, I don't care too much about graphical fidelity, and if anything the low draw distance added to the mood.\n\nhttps://www.youtube.com/watch?v=5y891t5q7K8 [https://www.youtube.com/watch?v=5y891t5q7K8]",
+            "date_modified": "2023-02-28T13:44:53.962Z",
+            "date_published": "2023-02-28T12:16:05.947Z",
             "author": {
                 "name": "@jmsfbs",
                 "url": "https://cohost.org/jmsfbs"
             },
             "tags": [
-                "music",
-                "drums",
-                "home recording",
-                "learning",
-                "process"
-            ]
-        },
-        {
-            "id": "757625",
-            "content_html": "<p><a href=\"https://www.youtube.com/watch?v=SMKSEBTSFOo\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=SMKSEBTSFOo</a></p>\n<p>JW (formerly of Vlambeer games) presenting a micro talk on the moral imperative to remove filler from your games and ways to achieve this.</p>",
-            "url": "https://cohost.org/jmsfbs/post/757625-frick-filler",
-            "title": "Frick Filler",
-            "summary": "https://www.youtube.com/watch?v=SMKSEBTSFOo [https://www.youtube.com/watch?v=SMKSEBTSFOo]\n\nJW (formerly of Vlambeer games) presenting a micro talk on the moral imperative to remove filler from your games and ways to achieve this.",
-            "date_modified": "2023-01-04T23:52:39.655Z",
-            "date_published": "2023-01-01T00:20:58.754Z",
-            "author": {
-                "name": "@jmsfbs",
-                "url": "https://cohost.org/jmsfbs"
-            },
-            "tags": [
-                "jw",
-                "gamedesign",
-                "gamedev"
-            ]
-        },
-        {
-            "id": "752730",
-            "content_html": "<p>Just started this old series on the leaders of the two major Australian political parties post WWII and only 13 mins in I&#x27;m learning so much.</p>\n<ul>\n<li>Had no idea we had a PM born in Bathurst</li>\n<li>Had no idea how pro-socialist the labour party was in the 40s, and how inevitable it seemed post war that capitalism was ending soon</li>\n<li>Did not know the UN and Declaration of Human rights was founded in large part due to <a href=\"https://en.wikipedia.org/wiki/H._V._Evatt\" target=\"_self\" rel=\"nofollow\">Doc Evatt</a></li>\n<li>Did not know he would probably have been PM instead of Chifley were he not on a submarine at the time Curtin died and the leadership vote happened</li>\n<li>Had no idea Chifley was Irish!</li>\n<li>Did not know Menzies started the liberal party and that in his open speech made it clear the philosophy of the party was that the profit motive was the only way to improve society... basically a libertarian.  And a reaction to the communist popularity in the working class.  His Liberal party coronation speech says the quiet parts loud.</li>\n<li>Chifley had no higher education and was a train engineer.</li>\n<li>Chifley tried to Nationalize the banks.  The issue was taken to the high court, and the government was represented in court by Doc Evatt who spoke for 22 days (14 presentation, 8 response) arguing his case.  They lost.</li>\n<li>Chifley started Snowy, QANTAS, the age pension</li>\n<li>Doc Evatt was pro white australia policy.  Apparently his reasoning was to prevent cheap labour from entering the country.  Same guy was prominent in the negotiations that led to the creation of Israel as chair of the Ad Hoc Committee on the Palestinian Question.</li>\n<li>Doc Evatt was the first president of the UN General Assembly</li>\n<li>CIA was created post war to prevent the rise of communism, Australia was pressured by the US to create their own equivalent (ASIO) or they would not share any intelligence with us.  Chifley resisted this and considered it a Secret Police, but we ended up getting one anyway.</li>\n<li>Kerry Packer was the grandchild of R.C. Packer who started the Media dynasty.</li>\n<li>Chifley encouraged Holden to release their branded car</li>\n<li>Chifley started the ANU</li>\n<li>Chifey introduced free treatment in public wards</li>\n<li>Chifley defied the UK and US in backing Indonesian independence over reinstating Dutch occupation <a href=\"https://aph.org.au/2019/02/ben-chifley-internationalist/\" target=\"_self\" rel=\"nofollow\">https://aph.org.au/2019/02/ben-chifley-internationalist/</a></li>\n<li>ABC during the war was obstructed by the then Dept. of Information headed by Keith Murdoch (father of Rupert Murdoch)</li>\n<li>Keith Murdoch got a job in the UK upon the recommendation of then Prime Minister Alfred Deakin who was close friends with Keith&#x27;s uncle Walter Murdoch.</li>\n</ul>\n<p>It&#x27;s amazing to me how none of this was taught to me in school.  Complete waste of time.</p>\n<p><a href=\"https://www.youtube.com/watch?v=OntdBSkiqoM\" target=\"_self\" rel=\"nofollow\">https://www.youtube.com/watch?v=OntdBSkiqoM</a></p>\n<p><a href=\"https://adb.anu.edu.au/biography/evatt-herbert-vere-bert-10131\" target=\"_self\" rel=\"nofollow\">https://adb.anu.edu.au/biography/evatt-herbert-vere-bert-10131</a></p>",
-            "url": "https://cohost.org/jmsfbs/post/752730-the-true-believers",
-            "title": "The True Believers",
-            "summary": "Just started this old series on the leaders of the two major Australian political parties post WWII and only 13 mins in I'm learning so much.\n\n * Had no idea we had a PM born in Bathurst\n * Had no idea how pro-socialist the labour party was in the 40s, and how inevitable it seemed post war that capitalism was ending soon\n * Did not know the UN and Declaration of Human rights was founded in large part due to Doc Evatt [https://en.wikipedia.org/wiki/H._V._Evatt]\n * Did not know he would probably have been PM instead of Chifley were he not on a submarine at the time Curtin died and the leadership vote happened\n * Had no idea Chifley was Irish!\n * Did not know Menzies started the liberal party and that in his open speech made it clear the philosophy of the party was that the profit motive was the only way to improve society... basically a libertarian. And a reaction to the communist popularity in the working class. His Liberal party coronation speech says the quiet parts loud.\n * Chifley had no higher education and was a train engineer.\n * Chifley tried to Nationalize the banks. The issue was taken to the high court, and the government was represented in court by Doc Evatt who spoke for 22 days (14 presentation, 8 response) arguing his case. They lost.\n * Chifley started Snowy, QANTAS, the age pension\n * Doc Evatt was pro white australia policy. Apparently his reasoning was to prevent cheap labour from entering the country. Same guy was prominent in the negotiations that led to the creation of Israel as chair of the Ad Hoc Committee on the Palestinian Question.\n * Doc Evatt was the first president of the UN General Assembly\n * CIA was created post war to prevent the rise of communism, Australia was pressured by the US to create their own equivalent (ASIO) or they would not share any intelligence with us. Chifley resisted this and considered it a Secret Police, but we ended up getting one anyway.\n * Kerry Packer was the grandchild of R.C. Packer who started the Media dynasty.\n * Chifley encouraged Holden to release their branded car\n * Chifley started the ANU\n * Chifey introduced free treatment in public wards\n * Chifley defied the UK and US in backing Indonesian independence over reinstating Dutch occupation https://aph.org.au/2019/02/ben-chifley-internationalist/ [https://aph.org.au/2019/02/ben-chifley-internationalist/]\n * ABC during the war was obstructed by the then Dept. of Information headed by Keith Murdoch (father of Rupert Murdoch)\n * Keith Murdoch got a job in the UK upon the recommendation of then Prime Minister Alfred Deakin who was close friends with Keith's uncle Walter Murdoch.\n\nIt's amazing to me how none of this was taught to me in school. Complete waste of time.\n\nhttps://www.youtube.com/watch?v=OntdBSkiqoM [https://www.youtube.com/watch?v=OntdBSkiqoM]\n\nhttps://adb.anu.edu.au/biography/evatt-herbert-vere-bert-10131 [https://adb.anu.edu.au/biography/evatt-herbert-vere-bert-10131]",
-            "date_modified": "2023-01-02T05:06:31.716Z",
-            "date_published": "2022-12-31T07:55:00.864Z",
-            "author": {
-                "name": "@jmsfbs",
-                "url": "https://cohost.org/jmsfbs"
-            },
-            "tags": [
-                "australian history",
-                "history",
-                "menzies",
-                "chifley",
-                "auspol",
-                "socialism",
-                "WWII"
+                "games",
+                "transrights",
+                "politics",
+                "review"
             ]
         }
     ]
