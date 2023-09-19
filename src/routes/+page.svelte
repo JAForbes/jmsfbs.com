@@ -53,6 +53,12 @@
     </div>
     <div class="tracks">
       <iframe
+        title="More alone"
+        style="border: 0; width: 100%; height: 120px;"
+        src="https://bandcamp.com/EmbeddedPlayer/track=3052317906/size=large/bgcol=ffffff/linkcol=f171a2/tracklist=false/artwork=small/transparent=true/"
+        seamless
+      />
+      <iframe
         title="Golden"
         style="border: 0; width: 100%; height: 42px;"
         src="https://bandcamp.com/EmbeddedPlayer/track=724292993/size=small/bgcol=ffffff/linkcol=f171a2/transparent=true/"
