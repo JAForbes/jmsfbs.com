@@ -17,7 +17,7 @@
           })}
         </p>
         <ul class="tags">
-          {#each x.tags as tag}
+          {#each x.tags.filter( x => x != 'crosspost:jmsfbs.com' ) as tag}
             <a href={"https://cohost.org/jmsfbs/tagged/" + tag}
               ><li>#{tag}</li></a
             >

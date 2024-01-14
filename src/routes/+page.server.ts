@@ -7,7 +7,7 @@ export const load: PageServerLoad = async () => {
 		posts: (cohost.items as CohostPost[])
 			.filter(
 				(x) =>
-					(x.tags.includes('music') || x.tags.includes('home recording')) &&
+					(x.tags.includes('crosspost:jmsfbs.com')) &&
 					x.author.name === '@jmsfbs'
 			)
 			.slice(0, 10)
