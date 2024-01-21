@@ -26,7 +26,7 @@
       </li>
     {/each}
   </ul>
-  <a class="readMore" href="https://cohost.org/jmsfbs"><p>Read More Posts</p></a
+  <a class="readMore" href="https://cohost.org/jmsfbs/tagged/crosspost:jmsfbs.com"><p>Read More Posts</p></a
   >
 </div>
 
