@@ -10,7 +10,7 @@
         <a style="text-decoration:none;" href={x.url}><h4>{x.title}</h4></a>
         <div>{@html x.content_html}</div>
         <p style="color:pink;">
-          Posted {new Date(x.date_modified).toLocaleDateString("en-au", {
+          Posted {new Date(x.date_published).toLocaleDateString("en-au", {
             year: "numeric",
             month: "long",
             day: "numeric",
